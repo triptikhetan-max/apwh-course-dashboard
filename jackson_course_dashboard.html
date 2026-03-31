@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jackson's AP World History Review Course Dashboard</title>
+<title>AP World History — Complete Project Handover</title>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -229,9 +229,10 @@ a:hover{text-decoration:underline}
 <nav class="nav">
   <div class="nav-inner">
     <div class="nav-tab active" data-tab="overview">Overview</div>
-    <div class="nav-tab" data-tab="topics">Topics</div>
+    <div class="nav-tab" data-tab="topics">Jackson Course</div>
     <div class="nav-tab" data-tab="students">Students</div>
     <div class="nav-tab" data-tab="frqs">FRQs</div>
+    <div class="nav-tab" data-tab="mc1mc2">MC1 & MC2</div>
     <div class="nav-tab" data-tab="assignments">Assignments</div>
     <div class="nav-tab" data-tab="decisions">Decisions</div>
     <div class="nav-tab" data-tab="status">Status</div>
@@ -246,8 +247,8 @@ a:hover{text-decoration:underline}
 <!-- ==================== OVERVIEW ==================== -->
 <div class="tab-content active" id="tab-overview">
   <div style="text-align:center;margin-bottom:32px">
-    <h1 style="font-size:36px;font-weight:800;margin-bottom:8px">Jackson's AP World History Review Course</h1>
-    <p style="font-size:16px;color:var(--text2)">71 Topics &middot; 9 Units &middot; 27 FRQs &middot; Exam: May 7, 2026</p>
+    <h1 style="font-size:36px;font-weight:800;margin-bottom:8px">AP World History: Complete Project Handover</h1>
+    <p style="font-size:16px;color:var(--text2)">4 Courses &middot; 10 Students &middot; Exam: May 7, 2026 &middot; Handed over by Tripti Khetan</p>
     <div style="margin:20px 0">
       <div class="countdown" id="countdown-days">--</div>
       <div class="countdown-label">days until exam</div>
@@ -256,12 +257,58 @@ a:hover{text-decoration:underline}
   </div>
 
   <div class="grid-6" style="margin-bottom:32px">
-    <div class="stat-card"><div class="stat-icon">&#128218;</div><div class="stat-num">71</div><div class="stat-label">Topics</div><div class="stat-sub">Across 9 units</div></div>
+    <div class="stat-card"><div class="stat-icon">&#128218;</div><div class="stat-num">4</div><div class="stat-label">Courses</div><div class="stat-sub">Jackson Review + HIPP B2 + MC1 China + MC2 Russia</div></div>
     <div class="stat-card"><div class="stat-icon">&#127919;</div><div class="stat-num">9</div><div class="stat-label">Units</div><div class="stat-sub">c. 1200 to present</div></div>
     <div class="stat-card"><div class="stat-icon">&#9997;&#65039;</div><div class="stat-num">27</div><div class="stat-label">FRQs</div><div class="stat-sub">14 SAQ + 8 LEQ + 5 DBQ</div></div>
-    <div class="stat-card"><div class="stat-icon">&#127909;</div><div class="stat-num">64</div><div class="stat-label">Videos</div><div class="stat-sub">Heimler's History</div></div>
-    <div class="stat-card"><div class="stat-icon">&#128202;</div><div class="stat-num">65</div><div class="stat-label">Diagnostic Qs</div><div class="stat-sub">55 PT1 + 10 supplement</div></div>
+    <div class="stat-card"><div class="stat-icon">&#128196;</div><div class="stat-num">5</div><div class="stat-label">Deliverables</div><div class="stat-sub">Build Guide, Styling Guide, Fix Docs, Student Brief</div></div>
+    <div class="stat-card"><div class="stat-icon">&#128202;</div><div class="stat-num">6-Layer</div><div class="stat-label">QC</div><div class="stat-sub">Automated pipeline for course validation</div></div>
     <div class="stat-card"><div class="stat-icon">&#9888;&#65039;</div><div class="stat-num">4</div><div class="stat-label">At-Risk Students</div><div class="stat-sub">Intervention planned</div></div>
+  </div>
+
+  <h3 style="margin:24px 0 16px;font-size:18px">All Courses</h3>
+  <div class="grid-2" style="margin-bottom:24px">
+    <div class="card" style="border-left:3px solid var(--green)">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+        <h4 style="font-size:16px">Jackson's Review Course</h4>
+        <span class="badge badge-green">READY FOR AKSHIT</span>
+      </div>
+      <p style="font-size:13px;color:var(--text2)">71 topics across 9 CED units. Full review with diagnostic, videos, articles, 6 MCQs/topic, 27 FRQs. Personalized for Jackson Price.</p>
+      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
+        <span class="badge badge-blue">71 topics</span><span class="badge badge-blue">27 FRQs</span><span class="badge badge-blue">64 videos</span><span class="badge badge-blue">65 diagnostic Qs</span>
+      </div>
+    </div>
+    <div class="card" style="border-left:3px solid var(--yellow)">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+        <h4 style="font-size:16px">B2: HIPP Document Analysis</h4>
+        <span class="badge badge-yellow">SPECS DONE</span>
+      </div>
+      <p style="font-size:13px;color:var(--text2)">9-module scaffolded course teaching HIPP framework. All specs written, Module 2 prototype tested. Article content for Modules 1, 3-9 still needed.</p>
+      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
+        <span class="badge badge-purple">9 modules</span><span class="badge badge-purple">102 items</span><span class="badge badge-purple">77 DBQ docs cataloged</span>
+      </div>
+    </div>
+    <div class="card" style="border-left:3px solid var(--red)">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+        <h4 style="font-size:16px">MC1: China (Han to Qing)</h4>
+        <span class="badge badge-red">QC FAILED — DEPRIORITIZED</span>
+      </div>
+      <p style="font-size:13px;color:var(--text2)">Built by Akshit. QC found only 37% of 190 MCQs are about China. 48% wrong-topic. All 3 FRQs wrong-topic. Rebuild deprioritized.</p>
+      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
+        <span class="badge badge-red">72/190 keepable (37%)</span><span class="badge badge-red">0/3 FRQs on-topic</span>
+      </div>
+      <p style="font-size:12px;color:var(--text3);margin-top:6px">Course ID: s4-r1r3-mc1-a120a364</p>
+    </div>
+    <div class="card" style="border-left:3px solid var(--red)">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+        <h4 style="font-size:16px">MC2: Russia (Kievan Rus to Soviet)</h4>
+        <span class="badge badge-red">QC FAILED — DEPRIORITIZED</span>
+      </div>
+      <p style="font-size:13px;color:var(--text2)">Built by Akshit. QC found only 36% of 232 MCQs are about Russia. 52% wrong-topic. All 3 FRQs wrong-topic. Rebuild deprioritized.</p>
+      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
+        <span class="badge badge-red">83/232 keepable (36%)</span><span class="badge badge-red">0/3 FRQs on-topic</span>
+      </div>
+      <p style="font-size:12px;color:var(--text3);margin-top:6px">Course ID: s4-r1r3-mc2-83cb26f8</p>
+    </div>
   </div>
 
   <div class="card" style="margin-bottom:24px">
@@ -310,6 +357,102 @@ a:hover{text-decoration:underline}
     <div class="frq-stat" style="background:var(--surface);border:1px solid var(--surface2)">23 CollegeBoard &middot; 4 Barron's</div>
   </div>
   <div class="frq-timeline" id="frq-timeline"></div>
+</div>
+
+<!-- ==================== MC1 & MC2 ==================== -->
+<div class="tab-content" id="tab-mc1mc2">
+  <h2 style="margin-bottom:8px;font-size:24px">MC1 China & MC2 Russia — QC Results</h2>
+  <p style="color:var(--text2);font-size:14px;margin-bottom:24px">Both courses built by Akshit. QC found serious structural problems. Rebuild deprioritized — focus on Jackson's course + B2 HIPP instead.</p>
+
+  <div class="grid-2" style="margin-bottom:24px">
+    <!-- MC1 CHINA -->
+    <div class="card" style="border-left:3px solid var(--red)">
+      <h3 style="margin-bottom:4px">MC1: China (Han to Qing)</h3>
+      <p style="font-size:12px;color:var(--text3);margin-bottom:16px">Course ID: s4-r1r3-mc1-a120a364 · Pull: 2026-03-19 · QC: 2026-03-20</p>
+
+      <div style="font-size:13px;font-weight:700;color:var(--red);text-transform:uppercase;margin-bottom:8px">QC Verdict</div>
+      <div style="background:rgba(239,68,68,.08);padding:12px;border-radius:8px;margin-bottom:16px;font-size:14px">
+        Only <strong>72 of 190 MCQ (37%)</strong> are China-specific.<br>
+        93 questions (48%) are wrong-topic: Ottoman, Mughal, generic Cold War.<br>
+        All 3 FRQs are wrong-topic: Abu'l Fazl (Mughal), Chile, generic.<br>
+        Missing Units 5, 6, 7 entirely.
+      </div>
+
+      <div style="font-size:13px;font-weight:700;color:var(--accent);text-transform:uppercase;margin-bottom:8px">Current 9 Topics</div>
+      <div style="font-size:13px;color:var(--text2);margin-bottom:16px">
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">1. Developments in East Asia (U1) — 27 items, <span style="color:var(--green)">23 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">2. The Silk Roads (U2) — 17 items, <span style="color:var(--yellow)">8 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">3. Empires Expand (U3) — 9 items, <span style="color:var(--yellow)">5 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">4. Empires: Administration (U3) — 37 items, <span style="color:var(--red)">9 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">5. Empires: Belief Systems (U3) — 15 items, <span style="color:var(--red)">4 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">6. Challenges to State Power (U4) — 13 items, <span style="color:var(--yellow)">7 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">7. The Cold War (U8) — 17 items, <span style="color:var(--red)">2 KEEP (0% China)</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">8. Effects of Cold War (U8) — 16 items, <span style="color:var(--red)">1 KEEP (0% China)</span></div>
+        <div style="padding:4px 0">9. Spread of Communism (U8) — 21 items, <span style="color:var(--green)">12 KEEP</span></div>
+      </div>
+
+      <div style="font-size:13px;font-weight:700;color:var(--purple);text-transform:uppercase;margin-bottom:8px">Proposed Rebuild (8 Topics)</div>
+      <div style="font-size:13px;color:var(--text2)">
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">1. Song Dynasty Golden Age (U1)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">2. Mongol Yuan & Silk Roads (U2)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">3. Ming & Qing Empires (U3)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">4. European Contact & Canton System (U4)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">5. Opium Wars & Taiping Rebellion (U5-6) <span class="badge badge-yellow" style="font-size:10px">NEW</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">6. Self-Strengthening & Boxer Rebellion (U6) <span class="badge badge-yellow" style="font-size:10px">NEW</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">7. Fall of Qing & Chinese Republic (U7) <span class="badge badge-yellow" style="font-size:10px">NEW</span></div>
+        <div style="padding:4px 0">8. Mao's China & Communist Revolution (U8)</div>
+      </div>
+      <p style="font-size:12px;color:var(--text3);margin-top:12px">Fix doc: deliverables/apwh_mc1_fixes_for_akshit.md (~15 hrs rebuild)</p>
+    </div>
+
+    <!-- MC2 RUSSIA -->
+    <div class="card" style="border-left:3px solid var(--red)">
+      <h3 style="margin-bottom:4px">MC2: Russia (Kievan Rus to Soviet)</h3>
+      <p style="font-size:12px;color:var(--text3);margin-bottom:16px">Course ID: s4-r1r3-mc2-83cb26f8 · Pull: 2026-03-19 · QC: 2026-03-20</p>
+
+      <div style="font-size:13px;font-weight:700;color:var(--red);text-transform:uppercase;margin-bottom:8px">QC Verdict</div>
+      <div style="background:rgba(239,68,68,.08);padding:12px;border-radius:8px;margin-bottom:16px;font-size:14px">
+        Only <strong>83 of 232 MCQ (35.8%)</strong> are Russia-specific.<br>
+        121 questions (52%) are wrong-topic: Japan, India, Africa, generic.<br>
+        All 3 FRQs are generic — 0 about Russia.<br>
+        Missing Units 1-2 and 6. Two quizzes have 0% keepable questions.
+      </div>
+
+      <div style="font-size:13px;font-weight:700;color:var(--accent);text-transform:uppercase;margin-bottom:8px">Current 12 Topics</div>
+      <div style="font-size:13px;color:var(--text2);margin-bottom:16px">
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">1. Empires Expand (U3) — 18 items, <span style="color:var(--red)">3 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">2. Empires: Administration (U3) — 21 items, <span style="color:var(--red)">2 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">3. Empires: Belief Systems (U3) — 7 items, <span style="color:var(--red)">2 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">4. Industrialization Spreads (U5) — 16 items, <span style="color:var(--red)">0 KEEP (0%)</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">5. Gov't Role (U5) — 26 items, <span style="color:var(--yellow)">6 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">6. Causes of WWI (U7) — 19 items, <span style="color:var(--yellow)">7 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">7. Unresolved Tensions (U7) — 12 items, <span style="color:var(--red)">0 KEEP (0%)</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">8. Setting Stage CW (U8) — 19 items, <span style="color:var(--yellow)">7 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">9. The Cold War (U8) — 19 items, <span style="color:var(--green)">18 KEEP (95%)</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">10. Effects of CW (U8) — 21 items, <span style="color:var(--green)">14 KEEP</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">11. Spread of Communism (U8) — 16 items, <span style="color:var(--yellow)">5 KEEP</span></div>
+        <div style="padding:4px 0">12. End of Cold War (U8) — 13 items, <span style="color:var(--green)">13 KEEP (100%)</span></div>
+      </div>
+
+      <div style="font-size:13px;font-weight:700;color:var(--purple);text-transform:uppercase;margin-bottom:8px">Proposed Rebuild (8 Topics)</div>
+      <div style="font-size:13px;color:var(--text2)">
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">1. Kievan Rus & Mongol Yoke (U1-2) <span class="badge badge-yellow" style="font-size:10px">NEW</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">2. Russian Empire & Tsardom (U3)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">3. Russian Industrialization (U5)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">4. Russian Reform & 1905 Revolution (U5-6) <span class="badge badge-yellow" style="font-size:10px">NEW</span></div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">5. WWI & Russian Revolution (U7)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">6. Soviet Union & Stalin (U8)</div>
+        <div style="padding:4px 0;border-bottom:1px solid rgba(51,65,85,.2)">7. Cold War Soviet Union (U8)</div>
+        <div style="padding:4px 0">8. Fall of USSR & End of Cold War (U8)</div>
+      </div>
+      <p style="font-size:12px;color:var(--text3);margin-top:12px">Fix doc: deliverables/apwh_mc2_fixes_for_akshit.md (~17 hrs rebuild)</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3 style="color:var(--red);margin-bottom:12px">Decision: Rebuild Deprioritized</h3>
+    <p style="font-size:14px;color:var(--text2)">MC1 and MC2 rebuild was estimated at ~32 hours total (15+17). With the exam on May 7, 2026, the decision was made to focus on Jackson's 71-topic review course (ready for Akshit) and B2 HIPP (specs done). MC1/MC2 can be rebuilt if time allows, or shipped as-is for whatever value the ~37% on-topic questions provide. Fix docs with full item-by-item specs have been written and delivered.</p>
+  </div>
 </div>
 
 <!-- ==================== ASSIGNMENTS ==================== -->
@@ -1044,6 +1187,31 @@ document.getElementById('student-plans-container').innerHTML = STUDENT_PLANS.map
 
 // TRIPTI'S WORK LOG
 const WORK_LOG = [
+  { category: "All Files Created (Full Inventory)", items: [
+    "PROJECT_CONTEXT.md \u2014 Master project context (read this first)",
+    "deliverables/BUILD_GUIDE_FOR_AKSHIT.md \u2014 Step-by-step build guide for both courses",
+    "deliverables/TIMEBACK_STYLING_GUIDE.md \u2014 Full styling spec (colors, typography, H5P, MCQ/FRQ formatting)",
+    "deliverables/apwh_mc1_fixes_for_akshit.md \u2014 MC1 China fix doc (item-by-item keep/delete/move)",
+    "deliverables/apwh_mc2_fixes_for_akshit.md \u2014 MC2 Russia fix doc (item-by-item keep/delete/move)",
+    "deliverables/apwh_mc1_mc2_student_assignment_brief.md \u2014 Student brief for Eric/Hari",
+    "jackson_course/COURSE_SPEC.md \u2014 Jackson course master spec",
+    "jackson_course/FRQ_PLACEMENT_MAP.md \u2014 27 FRQs mapped with sources",
+    "jackson_course/GCHAT_MESSAGE_FOR_AKSHIT.md \u2014 Handoff message for Akshit",
+    "jackson_course/diagnostic_test_mapping.md \u2014 Princeton PT1 answer key + unit mapping",
+    "jackson_course/diagnostic_supplement_unit4_5_9.md \u2014 10 supplementary questions",
+    "jackson_course/unit_1/ through unit_9/ \u2014 71 article.md + 71 topic_spec.md files",
+    "jackson_course/released_ap_docs/ \u2014 22 PDFs (11 FRQ sets + 11 scoring guidelines, 2017-2025)",
+    "hipp_course/module_1 through module_9_akshit_build_spec.md \u2014 9 module build specs",
+    "hipp_course/module_2_historical_situation.md \u2014 Module 2 prototype article",
+    "hipp_course/module_2_student_dry_run.md \u2014 Dry test results (7.5/10)",
+    "research/frq_pattern_analysis.md \u2014 Released FRQs 2017-2025 analysis",
+    "research/hipp/ \u2014 6 research files (Reddit, videos, pedagogy, DBQ catalog, transcripts, Fiveable)",
+    "source_data/ced/ \u2014 71 CED topic files (enriched with learning objectives)",
+    "source_data/video/all_units_video_map.md \u2014 64 Heimler URLs",
+    "source_data/external/ \u2014 Khan Academy + Fiveable URLs per topic (Unit 1)",
+    "source_data/base_course/ \u2014 7 WORH23-v1 base course articles (Unit 1)",
+    "student_data/ap_world_history_s3_review.md \u2014 Full S3 review (500+ lines)"
+  ]},
   { category: "S3 Review & Analysis", items: [
     "Analyzed practice exam data for 6 tested students across AP World History",
     "Created per-student CED skill breakdowns (5 skills \u00d7 6 students) from item-level CSV data",
