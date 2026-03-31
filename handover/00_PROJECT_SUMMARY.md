@@ -15,9 +15,9 @@ AP World is NOT AP HuGeo. HuGeo tests geographic concepts through maps/data. Wor
 ### 1. Jackson's AP World History Review Course — READY FOR AKSHIT
 - 71 topics across all 9 CED units
 - Diagnostic-driven: Princeton PT1 (65 MCQs) → SKIP/SKIM/FULL per unit
-- Each topic: Heimler video → Opus-generated article → 6 stimulus-based MCQs
+- Each topic: Heimler video → article → 6 stimulus-based MCQs
 - 27 FRQs (14 SAQs, 8 LEQs, 5 Mini-DBQs) clustered after 2-3 related topics
-- All articles generated with Claude Opus, QC'd, fixes applied
+- All articles written, reviewed, fixes applied
 - Full folder organized for Akshit handoff
 
 ### 2. B2: HIPP Document Analysis — SPECS DONE

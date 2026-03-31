@@ -6,7 +6,7 @@
 
 ## Done (Green Light)
 
-- [x] 71 articles generated with Claude Opus, QC'd, all fixes applied
+- [x] 71 articles written, reviewed, all fixes applied
 - [x] 64 Heimler's History video URLs mapped to CED topics
 - [x] 27 FRQs mapped with exact sources (23 CollegeBoard, 4 Barron's)
 - [x] 3 Heimler strategy videos placed (SAQ before FRQ #1, LEQ before FRQ #3, DBQ before FRQ #6)

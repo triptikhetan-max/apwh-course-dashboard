@@ -7,7 +7,7 @@
 
 ### Structure
 1. **Diagnostic:** Princeton PT1 (55 MCQs + 10 supplementary) → scores per unit → 80%+ SKIP, 50-79% SKIM, below 50% FULL
-2. **Per topic (71 total):** Heimler video → Opus article → 6 MCQs (stimulus-based, 4 choices A-D)
+2. **Per topic (71 total):** Heimler video → article → 6 MCQs (stimulus-based, 4 choices A-D)
 3. **27 FRQs** clustered after groups of 2-3 related topics (not per-topic)
    - 14 SAQs, 8 LEQs, 5 Mini-DBQs
    - First time each type appears, Heimler strategy video plays
