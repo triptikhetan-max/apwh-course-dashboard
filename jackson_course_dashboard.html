@@ -248,71 +248,186 @@ a:hover{text-decoration:underline}
 <div class="tab-content active" id="tab-overview">
   <div style="text-align:center;margin-bottom:32px">
     <h1 style="font-size:36px;font-weight:800;margin-bottom:8px">AP World History: Complete Project Handover</h1>
-    <p style="font-size:16px;color:var(--text2)">4 Courses &middot; 10 Students &middot; Exam: May 7, 2026 &middot; Handed over by Tripti Khetan</p>
+    <p style="font-size:16px;color:var(--text2)">Everything we built, why we built it, what's done, and where we left off</p>
+    <p style="font-size:14px;color:var(--text3);margin-top:4px">Tripti Khetan &rarr; Exam: May 7, 2026</p>
     <div style="margin:20px 0">
       <div class="countdown" id="countdown-days">--</div>
       <div class="countdown-label">days until exam</div>
     </div>
-    <span class="badge badge-green" style="font-size:14px;padding:6px 18px">READY FOR AKSHIT</span>
   </div>
 
-  <div class="grid-6" style="margin-bottom:32px">
-    <div class="stat-card"><div class="stat-icon">&#128218;</div><div class="stat-num">4</div><div class="stat-label">Courses</div><div class="stat-sub">Jackson Review + HIPP B2 + MC1 China + MC2 Russia</div></div>
-    <div class="stat-card"><div class="stat-icon">&#127919;</div><div class="stat-num">9</div><div class="stat-label">Units</div><div class="stat-sub">c. 1200 to present</div></div>
-    <div class="stat-card"><div class="stat-icon">&#9997;&#65039;</div><div class="stat-num">27</div><div class="stat-label">FRQs</div><div class="stat-sub">14 SAQ + 8 LEQ + 5 DBQ</div></div>
-    <div class="stat-card"><div class="stat-icon">&#128196;</div><div class="stat-num">5</div><div class="stat-label">Deliverables</div><div class="stat-sub">Build Guide, Styling Guide, Fix Docs, Student Brief</div></div>
-    <div class="stat-card"><div class="stat-icon">&#128202;</div><div class="stat-num">6-Layer</div><div class="stat-label">QC</div><div class="stat-sub">Automated pipeline for course validation</div></div>
-    <div class="stat-card"><div class="stat-icon">&#9888;&#65039;</div><div class="stat-num">4</div><div class="stat-label">At-Risk Students</div><div class="stat-sub">Intervention planned</div></div>
+  <!-- THE PROBLEM -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--red)">
+    <h3 style="color:var(--red);margin-bottom:12px;font-size:18px">The Problem We Found</h3>
+    <p style="font-size:15px;line-height:1.7;margin-bottom:12px">AP World History students at Alpha are failing because of a <strong style="color:#fff">writing and source analysis gap</strong>, not a content gap. The exam is 60% writing (DBQ 25% + SAQ 20% + LEQ 15%) and 40% MCQ. All four at-risk students scored <strong style="color:var(--red)">1-2 out of 7 on the DBQ</strong> with the exact same four failures:</p>
+    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:12px">
+      <div class="card-sm" style="border-left:2px solid var(--red)"><strong style="color:var(--red)">1.</strong> No defensible thesis &mdash; restate the prompt instead of making a claim</div>
+      <div class="card-sm" style="border-left:2px solid var(--red)"><strong style="color:var(--red)">2.</strong> Vague or missing contextualization &mdash; can't place events in broader context</div>
+      <div class="card-sm" style="border-left:2px solid var(--red)"><strong style="color:var(--red)">3.</strong> Only 2-3 documents used &mdash; need 6-7 for full credit</div>
+      <div class="card-sm" style="border-left:2px solid var(--red)"><strong style="color:var(--red)">4.</strong> Zero HIPP sourcing &mdash; the #1 missed skill nationally (2024 Chief Reader)</div>
+    </div>
+    <p style="font-size:14px;color:var(--text2);line-height:1.6">Students spent all their time on MCQ-format content review. <strong style="color:#fff">You can't fix a writing problem with more multiple-choice practice.</strong> The V1 courses (open-book reference sheets above recall questions) had zero learning value &mdash; students just looked up answers. We scrapped the entire V1 approach.</p>
   </div>
 
-  <h3 style="margin:24px 0 16px;font-size:18px">All Courses</h3>
-  <div class="grid-2" style="margin-bottom:24px">
-    <div class="card" style="border-left:3px solid var(--green)">
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
-        <h4 style="font-size:16px">Jackson's Review Course</h4>
-        <span class="badge badge-green">READY FOR AKSHIT</span>
-      </div>
-      <p style="font-size:13px;color:var(--text2)">71 topics across 9 CED units. Full review with diagnostic, videos, articles, 6 MCQs/topic, 27 FRQs. Personalized for Jackson Price.</p>
-      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
-        <span class="badge badge-blue">71 topics</span><span class="badge badge-blue">27 FRQs</span><span class="badge badge-blue">64 videos</span><span class="badge badge-blue">65 diagnostic Qs</span>
-      </div>
-    </div>
-    <div class="card" style="border-left:3px solid var(--yellow)">
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
-        <h4 style="font-size:16px">B2: HIPP Document Analysis</h4>
-        <span class="badge badge-yellow">SPECS DONE</span>
-      </div>
-      <p style="font-size:13px;color:var(--text2)">9-module scaffolded course teaching HIPP framework. All specs written, Module 2 prototype tested. Article content for Modules 1, 3-9 still needed.</p>
-      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
-        <span class="badge badge-purple">9 modules</span><span class="badge badge-purple">102 items</span><span class="badge badge-purple">77 DBQ docs cataloged</span>
-      </div>
-    </div>
-    <div class="card" style="border-left:3px solid var(--red)">
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
-        <h4 style="font-size:16px">MC1: China (Han to Qing)</h4>
-        <span class="badge badge-red">QC FAILED — DEPRIORITIZED</span>
-      </div>
-      <p style="font-size:13px;color:var(--text2)">Built by Akshit. QC found only 37% of 190 MCQs are about China. 48% wrong-topic. All 3 FRQs wrong-topic. Rebuild deprioritized.</p>
-      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
-        <span class="badge badge-red">72/190 keepable (37%)</span><span class="badge badge-red">0/3 FRQs on-topic</span>
-      </div>
-      <p style="font-size:12px;color:var(--text3);margin-top:6px">Course ID: s4-r1r3-mc1-a120a364</p>
-    </div>
-    <div class="card" style="border-left:3px solid var(--red)">
-      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
-        <h4 style="font-size:16px">MC2: Russia (Kievan Rus to Soviet)</h4>
-        <span class="badge badge-red">QC FAILED — DEPRIORITIZED</span>
-      </div>
-      <p style="font-size:13px;color:var(--text2)">Built by Akshit. QC found only 36% of 232 MCQs are about Russia. 52% wrong-topic. All 3 FRQs wrong-topic. Rebuild deprioritized.</p>
-      <div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">
-        <span class="badge badge-red">83/232 keepable (36%)</span><span class="badge badge-red">0/3 FRQs on-topic</span>
-      </div>
-      <p style="font-size:12px;color:var(--text3);margin-top:6px">Course ID: s4-r1r3-mc2-83cb26f8</p>
+  <!-- THE KEY INSIGHT -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--accent)">
+    <h3 style="color:var(--accent);margin-bottom:12px;font-size:18px">Key Insight: AP World ≠ AP HuGeo</h3>
+    <p style="font-size:14px;color:var(--text2);line-height:1.7;margin-bottom:12px">AP HuGeo tests geographic <em>concepts</em> through maps and data. AP World tests historical <em>reasoning</em> through primary source documents. The HuGeo fix (better practice layer) was necessary but insufficient for AP World. AP World needs the practice layer <strong style="color:#fff">AND explicit skill instruction</strong> (HIPP, thesis writing, contextualization, argument construction).</p>
+    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:12px;font-size:13px">
+      <div class="card-sm"><strong>AP HuGeo</strong><br>5 MCQ choices, mostly standalone, 50% FRQ, 3 identical FRQ types, map/data interpretation, 56% pass rate</div>
+      <div class="card-sm"><strong>AP World</strong><br>4 MCQ choices, ALL stimulus sets, 60% FRQ, 3 DIFFERENT FRQ types (SAQ/DBQ/LEQ), primary source analysis, 65% pass rate</div>
     </div>
   </div>
 
+  <!-- WHAT WE DECIDED TO BUILD -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--green)">
+    <h3 style="color:var(--green);margin-bottom:12px;font-size:18px">What We Built (and Why)</h3>
+    <p style="font-size:14px;color:var(--text2);line-height:1.7;margin-bottom:16px">The intervention has two parts: <strong style="color:#fff">HIPP skill instruction</strong> (teach HOW to analyze sources) and <strong style="color:#fff">content + application practice</strong> (give historical knowledge AND make students apply it under exam conditions).</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:16px">
+      <div class="card-sm" style="border-left:3px solid var(--green)">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px"><strong>Jackson's Review Course</strong><span class="badge badge-green">READY</span></div>
+        <p style="font-size:13px;color:var(--text2)">71 topics, all 9 CED units. Diagnostic-driven (Princeton PT1 &rarr; SKIP/SKIM/FULL per unit). Each topic: Heimler video &rarr; Opus-generated article &rarr; 6 stimulus-based MCQs &rarr; FRQ every 2-3 topics. 27 FRQs total (14 SAQs, 8 LEQs, 5 Mini-DBQs). 23 from released CollegeBoard, 4 from Barron's.</p>
+      </div>
+      <div class="card-sm" style="border-left:3px solid var(--yellow)">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px"><strong>B2: HIPP Document Analysis</strong><span class="badge badge-yellow">SPECS DONE</span></div>
+        <p style="font-size:13px;color:var(--text2)">9-module scaffolded course. Teaches HIPP (Historical situation, Intended audience, Purpose, Point of view). Guided &rarr; semi-guided &rarr; independent. 77 released DBQ documents. AI autograder per HIPP element. Module 2 prototyped and tested (7.5/10). Article content for Modules 1, 3-9 still needed.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- MC1 & MC2 DECISION -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--yellow)">
+    <h3 style="color:var(--yellow);margin-bottom:12px;font-size:18px">MC1 China & MC2 Russia &mdash; QC Failed, Rebuild Deprioritized</h3>
+    <p style="font-size:14px;color:var(--text2);line-height:1.7;margin-bottom:12px">Akshit built MC1 (China) and MC2 (Russia) as mini-courses. We ran the 6-layer QC pipeline and found <strong style="color:var(--red)">catastrophic off-topic content</strong>:</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px">
+      <div class="card-sm" style="border-left:2px solid var(--red)">
+        <strong>MC1 China:</strong> Only 72 of 190 MCQs (37%) are about China. 93 questions about Ottoman, Mughal, generic Cold War. All 3 FRQs wrong-topic (Mughal, Chile, generic). Missing Units 5-7.
+      </div>
+      <div class="card-sm" style="border-left:2px solid var(--red)">
+        <strong>MC2 Russia:</strong> Only 83 of 232 MCQs (36%) are about Russia. 121 questions about Japan, India, Africa. All 3 FRQs generic. Missing Units 1-2, 6. Two quizzes at 0% keepable.
+      </div>
+    </div>
+    <p style="font-size:14px;color:var(--text2);line-height:1.7"><strong style="color:#fff">Decision: We're not doing MC1/MC2.</strong> They were built, but the QC results showed they'd need ~32 hours of rebuild. Instead, we decided to build Jackson's full 71-topic review course from scratch &mdash; which covers all 9 CED units properly, with stimulus-based MCQs, 27 real FRQs, and diagnostic-driven personalization. That course is done and ready. Fix docs were written for MC1/MC2 in case someone picks them up later.</p>
+  </div>
+
+  <!-- THE FRQs -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--purple)">
+    <h3 style="color:var(--purple);margin-bottom:12px;font-size:18px">Why 27 FRQs &mdash; And How They're Placed</h3>
+    <p style="font-size:14px;color:var(--text2);line-height:1.7;margin-bottom:12px">FRQ performance determines the AP score. Every student who scored 5 had FRQ at or above 77%. Every 1-3 had FRQ at or below 63%. The 27 FRQs are <strong style="color:#fff">clustered after groups of 2-3 related topics</strong> (not per-topic) for cross-topic reasoning. First time each type appears, a Heimler strategy video plays before it.</p>
+    <div style="display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px">
+      <span class="badge badge-blue" style="padding:6px 14px">14 SAQs (Short Answer)</span>
+      <span class="badge badge-purple" style="padding:6px 14px">8 LEQs (Long Essay)</span>
+      <span class="badge badge-yellow" style="padding:6px 14px">5 Mini-DBQs (Document-Based)</span>
+    </div>
+    <p style="font-size:13px;color:var(--text3)">23 from released CollegeBoard exams (2017-2025), 4 from Barron's 2024 to fill gaps. See the "FRQs" tab for the full placement map.</p>
+  </div>
+
+  <!-- THE ARTICLES -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--purple)">
+    <h3 style="color:var(--purple);margin-bottom:12px;font-size:18px">71 Articles &mdash; Generated with Claude Opus, QC'd</h3>
+    <p style="font-size:14px;color:var(--text2);line-height:1.7;margin-bottom:8px">Every article follows a strict template: learning goal &rarr; CED outcomes &rarr; student instructions &rarr; article content with bold key terms + College Board callout boxes &rarr; 12-20 key terms with definitions &rarr; 5 note-taking prompts (prompt 5 always bridges to the next topic). All paired with Heimler's History videos (64 URLs mapped). See the "Jackson Course" tab to read every article.</p>
+  </div>
+
+  <!-- THE STUDENT SITUATION -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--amber)">
+    <h3 style="color:var(--amber);margin-bottom:12px;font-size:18px">4 At-Risk Students &mdash; Each Needs a Different Path</h3>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px">
+      <div class="card-sm" style="border-left:2px solid var(--red)">
+        <strong>Emma Cotner (AP: 2)</strong><br><span style="font-size:13px;color:var(--text2)">Skill 2 at 0%. Referenced "Confucian ideals" for USSR. Can't source documents. Needs B2 HIPP first, then content courses.</span>
+      </div>
+      <div class="card-sm" style="border-left:2px solid var(--red)">
+        <strong>Saeed Tarawneh (AP: 2)</strong><br><span style="font-size:13px;color:var(--text2)">-22% course-to-exam drop (biggest in cohort). Knows facts, can't apply. Cited Meiji Restoration for Soviet economy. B2 HIPP first.</span>
+      </div>
+      <div class="card-sm" style="border-left:2px solid var(--yellow)">
+        <strong>Jackson Price (AP: 3)</strong><br><span style="font-size:13px;color:var(--text2)">Paradox: 78% practice MCQ but 15% TB FRQ. Only student who improved (+15%). Full 71-topic review is his primary course.</span>
+      </div>
+      <div class="card-sm" style="border-left:2px solid var(--yellow)">
+        <strong>Ella Dietz (AP: 3)</strong><br><span style="font-size:13px;color:var(--text2)">INVERTED profile: Skill 2 is 100% (strong sourcing) but Skill 5 at 43% (weak synthesis). Skips B2 HIPP. Clearest 3&rarr;5 path.</span>
+      </div>
+    </div>
+    <p style="font-size:13px;color:var(--text3)">See "Student Plans" tab for detailed per-student 3-layer interventions with CED skills, FRQ errors, and targets.</p>
+  </div>
+
+  <!-- SEQUENCING -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--accent)">
+    <h3 style="color:var(--accent);margin-bottom:12px;font-size:18px">Critical Sequencing &mdash; B2 HIPP Before Content</h3>
+    <p style="font-size:14px;color:var(--text2);line-height:1.7;margin-bottom:12px"><strong style="color:#fff">Non-negotiable:</strong> B2 HIPP must come before MC1/MC2 for Emma, Saeed, and Jackson. Emma's Skill 2 is literally 0%. If she starts the China course (76% stimulus-based), she'll fail every source question. Ella skips B2 (her Skill 2 is 100%) and goes straight to content.</p>
+    <div class="flow" style="justify-content:flex-start">
+      <div class="flow-step" style="background:rgba(245,158,11,.2);color:#fbbf24;font-weight:700">B2 HIPP</div>
+      <div class="flow-arrow">&rarr;</div>
+      <div class="flow-step" style="background:rgba(59,130,246,.2);color:#60a5fa">Content Courses</div>
+      <div class="flow-arrow">&rarr;</div>
+      <div class="flow-step" style="background:rgba(34,197,94,.2);color:#4ade80">Jackson Review</div>
+      <div class="flow-arrow">&rarr;</div>
+      <div class="flow-step" style="background:rgba(168,85,247,.2);color:#c084fc">Skill 5 (Ella only)</div>
+    </div>
+  </div>
+
+  <!-- WHAT WAS GIVEN TO AKSHIT -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--green)">
+    <h3 style="color:var(--green);margin-bottom:12px;font-size:18px">What Was Given to Akshit</h3>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:13px">
+      <div class="card-sm"><strong>BUILD_GUIDE_FOR_AKSHIT.md</strong><br><span style="color:var(--text2)">Step-by-step: how to build one topic, how to build one HIPP module, where to find everything</span></div>
+      <div class="card-sm"><strong>TIMEBACK_STYLING_GUIDE.md</strong><br><span style="color:var(--text2)">Full spec: 8 block types, color palette, typography, video embedding, H5P, MCQ/FRQ formatting, document cards</span></div>
+      <div class="card-sm"><strong>GCHAT_MESSAGE_FOR_AKSHIT.md</strong><br><span style="color:var(--text2)">Handoff message: what to read, how to start (diagnostic &rarr; Unit 1 &rarr; show Tripti &rarr; batch rest)</span></div>
+      <div class="card-sm"><strong>MC1 + MC2 Fix Docs</strong><br><span style="color:var(--text2)">Item-by-item keep/delete/move decisions with test IDs, proposed 8-topic rebuilds (~32 hrs total)</span></div>
+      <div class="card-sm"><strong>Student Assignment Brief</strong><br><span style="color:var(--text2)">For Eric/Hari: why courses needed, who gets what, student-specific notes, sequencing, XP estimates</span></div>
+      <div class="card-sm"><strong>71 Article + Spec Files</strong><br><span style="color:var(--text2)">jackson_course/unit_X/topic_X.X/ &mdash; article.md + topic_spec.md per topic, fully organized</span></div>
+    </div>
+  </div>
+
+  <!-- WHAT WE SCRAPPED -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--text3)">
+    <h3 style="color:var(--text2);margin-bottom:12px;font-size:18px">What We Scrapped &amp; Why</h3>
+    <div style="font-size:13px;color:var(--text2)">
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>V1 open-book format</s> &mdash; Students looked up answers. Zero encoding.</div>
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>V1 recall MCQs (40/course)</s> &mdash; Open-book, no retrieval practice.</div>
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>MC1 China rebuild</s> &mdash; Deprioritized (~15 hrs). Fix doc written.</div>
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>MC2 Russia rebuild</s> &mdash; Deprioritized (~17 hrs). Fix doc written.</div>
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>Per-topic FRQs</s> &mdash; Club 2-3 topics for cross-topic reasoning.</div>
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>5-choice &rarr; 4-choice conversion</s> &mdash; DELETE entirely, don't convert.</div>
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>Ella in B2 HIPP</s> &mdash; Her Skill 2 is fine. Problem is Skill 5.</div>
+      <div style="padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>HuGeo playbook for AP World</s> &mdash; Different exam, different fix.</div>
+      <div style="padding:6px 0"><span style="color:var(--red);font-weight:700">&#10005;</span> <s>MC3 Ottoman / MC4 W.Europe / MC5 Terminology</s> &mdash; Specs written, not built.</div>
+    </div>
+    <p style="font-size:13px;color:var(--text3);margin-top:8px"><strong>V1 reference sheets KEPT</strong> as LEARN supplementary material &mdash; well-written, just can't be visible during assessment.</p>
+  </div>
+
+  <!-- WHERE WE LEFT OFF -->
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--yellow)">
+    <h3 style="color:var(--yellow);margin-bottom:12px;font-size:18px">Where We Left Off</h3>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+      <div>
+        <div style="font-size:12px;font-weight:700;color:var(--green);text-transform:uppercase;margin-bottom:8px">Done</div>
+        <div style="font-size:13px;color:var(--text2);line-height:2">
+          &#10003; 71 articles generated, QC'd, fixes applied<br>
+          &#10003; 64 Heimler video URLs mapped<br>
+          &#10003; 27 FRQs mapped with exact sources<br>
+          &#10003; 9 HIPP module specs written<br>
+          &#10003; Module 2 prototype tested (7.5/10)<br>
+          &#10003; S3 review completed (5 AP subjects)<br>
+          &#10003; All 5 deliverables for Akshit written<br>
+          &#10003; MC1/MC2 QC + fix docs written<br>
+          &#10003; Student assignment brief for Eric/Hari
+        </div>
+      </div>
+      <div>
+        <div style="font-size:12px;font-weight:700;color:var(--yellow);text-transform:uppercase;margin-bottom:8px">Still Pending</div>
+        <div style="font-size:13px;color:var(--text2);line-height:2">
+          &#9679; Akshit builds Jackson's course on Timeback <span class="owner-badge owner-akshit">Akshit</span><br>
+          &#9679; Tripti reviews Unit 1 build <span class="owner-badge owner-tripti">Tripti</span><br>
+          &#9679; HIPP article content for Modules 1, 3-9 <span class="owner-badge owner-tripti">Tripti</span><br>
+          &#9679; B2 HIPP handoff to Akshit <span class="blocked-badge">BLOCKED</span><br>
+          &#9679; Student assignment plan (who gets what)<br>
+          &#9679; Ella Skill 5 intervention <span class="owner-badge owner-tripti">Tripti</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JACKSON COURSE FLOW -->
   <div class="card" style="margin-bottom:24px">
-    <h3 style="margin-bottom:16px;font-size:16px;color:var(--text2)">Course Flow</h3>
+    <h3 style="margin-bottom:16px;font-size:16px;color:var(--text2)">Jackson's Course Flow (per topic)</h3>
     <div class="flow">
       <div class="flow-step active">Diagnostic<br><span style="font-size:11px;font-weight:400">Princeton PT1</span></div>
       <div class="flow-arrow">&#8594;</div>
