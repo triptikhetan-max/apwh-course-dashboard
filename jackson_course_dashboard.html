@@ -235,6 +235,9 @@ a:hover{text-decoration:underline}
     <div class="nav-tab" data-tab="assignments">Assignments</div>
     <div class="nav-tab" data-tab="decisions">Decisions</div>
     <div class="nav-tab" data-tab="status">Status</div>
+    <div class="nav-tab" data-tab="hipp">HIPP Course</div>
+    <div class="nav-tab" data-tab="studentplans">Student Plans</div>
+    <div class="nav-tab" data-tab="work">Tripti's Work</div>
   </div>
 </nav>
 
@@ -357,6 +360,69 @@ a:hover{text-decoration:underline}
     <div class="countdown-label">days until AP World History Exam (May 7, 2026)</div>
   </div>
   <div class="status-grid" id="status-grid"></div>
+</div>
+
+<!-- ==================== HIPP COURSE ==================== -->
+<div class="tab-content" id="tab-hipp">
+  <h2 style="margin-bottom:8px;font-size:24px">B2: HIPP Document Analysis Course</h2>
+  <p style="color:var(--text2);font-size:14px;margin-bottom:24px">9-module scaffolded course teaching the HIPP framework (Historical situation, Intended audience, Purpose, Point of view)</p>
+
+  <div class="grid-2" style="margin-bottom:24px">
+    <div class="card">
+      <h3 style="color:var(--accent);margin-bottom:12px">Status</h3>
+      <span class="badge badge-yellow" style="font-size:13px;padding:5px 14px;margin-bottom:12px;display:inline-block">SPECS DONE — NOT YET HANDED OFF</span>
+      <p style="font-size:14px;color:var(--text2);margin-top:8px">All 9 module build specs written. Module 2 prototype article written and dry-tested (7.5/10). Article content for Modules 1, 3-9 still needed (Module 2 is the template).</p>
+    </div>
+    <div class="card">
+      <h3 style="color:var(--accent);margin-bottom:12px">Who Needs This</h3>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px">
+        <span class="badge badge-red">Emma (Skill 2: 0%)</span>
+        <span class="badge badge-red">Saeed (-22% drop)</span>
+        <span class="badge badge-red">Jackson (15% TB FRQ)</span>
+      </div>
+      <p style="font-size:13px;color:var(--text2)"><strong style="color:var(--yellow)">NON-NEGOTIABLE:</strong> B2 HIPP must come BEFORE MC1/MC2 content courses for these 3 students. Ella SKIPS B2 (her Skill 2 is 100%).</p>
+    </div>
+  </div>
+
+  <h3 style="margin-bottom:16px;font-size:18px">9 Modules — Scaffolded Progression</h3>
+  <div id="hipp-modules"></div>
+
+  <h3 style="margin:24px 0 16px;font-size:18px">Key Design Decisions</h3>
+  <div class="card">
+    <div id="hipp-decisions"></div>
+  </div>
+
+  <h3 style="margin:24px 0 16px;font-size:18px">What's Done vs What's Pending</h3>
+  <div class="grid-2">
+    <div class="card">
+      <h4 style="color:var(--green);margin-bottom:12px">✓ Done</h4>
+      <div class="status-item"><span class="status-icon" style="color:var(--green)">✓</span>All 9 module specs written (item-by-item, autograder rubrics, model answers)</div>
+      <div class="status-item"><span class="status-icon" style="color:var(--green)">✓</span>77 released DBQ documents cataloged</div>
+      <div class="status-item"><span class="status-icon" style="color:var(--green)">✓</span>Module 2 prototype article written and dry-tested (7.5/10)</div>
+      <div class="status-item"><span class="status-icon" style="color:var(--green)">✓</span>3 fixes identified and applied (answer keys, context hints, self-check)</div>
+      <div class="status-item"><span class="status-icon" style="color:var(--green)">✓</span>HIPP research: Reddit/forums, video inventory, pedagogy methods (Wineburg, SHEG)</div>
+    </div>
+    <div class="card">
+      <h4 style="color:var(--yellow);margin-bottom:12px">⏳ Pending</h4>
+      <div class="status-item"><span class="status-icon" style="color:var(--yellow)">●</span>Write article content for Modules 1, 3-9 (Module 2 is the template) <span class="owner-badge owner-tripti">Tripti</span></div>
+      <div class="status-item"><span class="status-icon" style="color:var(--yellow)">●</span>Tripti reviews HIPP specs before handoff</div>
+      <div class="status-item"><span class="status-icon" style="color:var(--yellow)">●</span>Akshit builds on Timeback <span class="owner-badge owner-akshit">Akshit</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== STUDENT PLANS ==================== -->
+<div class="tab-content" id="tab-studentplans">
+  <h2 style="margin-bottom:8px;font-size:24px">Individual Student Intervention Plans</h2>
+  <p style="color:var(--text2);font-size:14px;margin-bottom:24px">Detailed per-student analysis from S3 review — why each student needs their specific intervention path</p>
+  <div id="student-plans-container"></div>
+</div>
+
+<!-- ==================== TRIPTI'S WORK ==================== -->
+<div class="tab-content" id="tab-work">
+  <h2 style="margin-bottom:8px;font-size:24px">Work Completed by Tripti</h2>
+  <p style="color:var(--text2);font-size:14px;margin-bottom:24px">Complete record of all content, analysis, and deliverables produced for the AP World History project</p>
+  <div id="work-log"></div>
 </div>
 
 </div><!-- /container -->
@@ -535,8 +601,6 @@ const STATUS = {
   pending: [
     { item: "Akshit builds Jackson's 71-topic course on Timeback", owner: "Akshit", blocked: false },
     { item: "Tripti reviews Unit 1 build", owner: "Tripti", blocked: true },
-    { item: "MC1 China rebuild (~15 hrs)", owner: "Akshit", blocked: false },
-    { item: "MC2 Russia rebuild (~17 hrs)", owner: "Akshit", blocked: false },
     { item: "Student assignment plan", owner: "Tripti", blocked: true },
     { item: "HIPP article content (Modules 1, 3-9)", owner: "Tripti", blocked: false },
     { item: "B2 HIPP handoff to Akshit", owner: "Tripti", blocked: true },
@@ -551,7 +615,9 @@ const STATUS = {
     { item: "5-choice \u2192 4-choice conversion", reason: "DELETE entirely, don't convert." },
     { item: "Unit-based organization", reason: "Civilization-based (China/Russia) has narrative coherence." },
     { item: "HuGeo playbook for AP World", reason: "Different exam. Need skill instruction, not just practice." },
-    { item: "MC3 Ottoman / MC4 W.Europe / MC5 Terminology", reason: "Deprioritized. Build if time before May 7." }
+    { item: "MC3 Ottoman / MC4 W.Europe / MC5 Terminology", reason: "Deprioritized. Build if time before May 7." },
+    { item: "MC1 China rebuild (15 hrs)", reason: "Decided not to rebuild. Ship what exists or deprioritize." },
+    { item: "MC2 Russia rebuild (17 hrs)", reason: "Decided not to rebuild. Ship what exists or deprioritize." }
   ]
 };
 
@@ -787,6 +853,256 @@ document.getElementById('scrapped-list').innerHTML = STATUS.scrapped.map(s =>
   html += '</div>';
   document.getElementById('status-grid').innerHTML = html;
 })();
+
+// HIPP MODULES DATA
+const HIPP_MODULES = [
+  { num: 1, title: "What is HIPP?", focus: "Introduction", items: 10, docs: "2 worked examples", video: "Heimler 'Three Secrets to a Perfect DBQ' (0:00-6:25)", est: "20-25 min" },
+  { num: 2, title: "Historical Situation", focus: "The 'H' in HIPP", items: 16, docs: "5 practice docs", video: "Article-driven (no video)", est: "25-30 min", prototype: true },
+  { num: 3, title: "Purpose", focus: "The first 'P' in HIPP", items: 16, docs: "5 practice docs", video: "Article-driven", est: "25-30 min" },
+  { num: 4, title: "Intended Audience", focus: "The 'I' in HIPP", items: 16, docs: "5 practice docs", video: "Article-driven", est: "25-30 min" },
+  { num: 5, title: "Point of View", focus: "The second 'P' (hardest)", items: 17, docs: "5 practice docs + extra scaffolding", video: "Article-driven", est: "30-35 min" },
+  { num: 6, title: "Full HIPP \u2014 Guided", focus: "All 4 elements together", items: 8, docs: "5 docs, per-element scoring", video: "None", est: "25-30 min" },
+  { num: 7, title: "Full HIPP \u2014 Independent", focus: "No scaffolding", items: 8, docs: "5 docs, no hints", video: "None", est: "25-30 min" },
+  { num: 8, title: "HIPP \u2192 DBQ Connection", focus: "Mini-DBQs", items: 6, docs: "3 Mini-DBQs (3-4 docs each)", video: "Heimler 'Three Secrets' (13:10-end)", est: "20-25 min" },
+  { num: 9, title: "Full DBQ Practice", focus: "Complete DBQ", items: 5, docs: "Full 7-doc DBQ (2024 Set 1)", video: "None", est: "50-60 min" }
+];
+
+document.getElementById('hipp-modules').innerHTML = HIPP_MODULES.map(m => `
+  <div class="card" style="margin-bottom:12px;${m.prototype ? 'border-left:3px solid var(--green)' : ''}">
+    <div style="display:flex;align-items:flex-start;gap:16px">
+      <div style="font-size:28px;font-weight:800;color:var(--accent);min-width:48px">M${m.num}</div>
+      <div style="flex:1">
+        <div style="font-size:16px;font-weight:700;margin-bottom:4px">${m.title} <span style="font-size:13px;font-weight:400;color:var(--text2)">\u2014 ${m.focus}</span></div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;margin:8px 0">
+          <span class="badge badge-blue">${m.items} items</span>
+          <span class="badge badge-purple">${m.docs}</span>
+          <span class="badge badge-gray">${m.est}</span>
+          ${m.prototype ? '<span class="badge badge-green">PROTOTYPE DONE</span>' : ''}
+        </div>
+        <div style="font-size:13px;color:var(--text3)">Video: ${m.video}</div>
+      </div>
+    </div>
+  </div>
+`).join('');
+
+const HIPP_DESIGN_DECISIONS = [
+  "Videos only for Module 1 (intro) and Modules 8-9 (DBQ connection). Modules 2-5 are article-driven \u2014 the article IS the teaching.",
+  "Autograder is AI/LLM-based, scoring each HIPP element separately (H: \u2713/\u2717, I: \u2713/\u2717, P: \u2713/\u2717, POV: \u2713/\u2717).",
+  "Model answers shown AFTER submission via H5P Reveal \u2014 REQUIRED, not nice-to-have.",
+  "H5P Fill-in-Blanks for guided practice (Docs 1-2 per module), open response for Docs 3-5.",
+  "Historical context hints provided with each practice document.",
+  "Self-check checklist before every submission.",
+  "No document reused across modules \u2014 77 released DBQ documents cataloged.",
+  "Scaffolding progression: Guided \u2192 Semi-guided \u2192 Independent within each module (Me-We-You)."
+];
+
+document.getElementById('hipp-decisions').innerHTML = HIPP_DESIGN_DECISIONS.map((d,i) => `
+  <div class="decision-row"><div class="decision-num">${i+1}</div><div class="decision-text"><span>${d}</span></div></div>
+`).join('');
+
+// STUDENT PLANS DATA
+const STUDENT_PLANS = [
+  {
+    name: "Emma Cotner", score: 2, mcq: 53, frq: 43, dbq: "1/7",
+    crisis: "Skill 2 (Sourcing & Situation) at 0% \u2014 the most extreme weakness in the entire AP World cohort. She cannot source or situate documents at all. Referenced 'Confucian ideals' when writing about the Soviet Union.",
+    cedSkills: [
+      { skill: "Skill 1: Developments & Processes", score: "50%", status: "WEAK" },
+      { skill: "Skill 2: Sourcing & Situation", score: "0%", status: "CRITICAL" },
+      { skill: "Skill 3: Claims & Evidence", score: "49%", status: "WEAK" },
+      { skill: "Skill 4: Contextualization", score: "100%", status: "STRONG" },
+      { skill: "Skill 5: Making Connections", score: "71%", status: "STRONG" }
+    ],
+    drop: "-20% course-to-exam (83% TB \u2192 53% practice MCQ)",
+    weakTopics: "11 topics below 60% \u2014 Units 1, 4, 6, 7, 8. Unit 8 = 0% on practice test (CRITICAL).",
+    frqErrors: [
+      "DBQ (1/7): Referenced 'Confucian ideals' for USSR. No thesis. Irrelevant contextualization. Minimal docs (2-3 instead of 6-7). Zero HIPP.",
+      "LEQ (2/6): Focused on European actions instead of African/American responses.",
+      "SAQ: Conflates political and religious concepts. Anachronistic terms ('not allowed to vote' in 1200-1450)."
+    ],
+    layer1: "11 weak topics. KO Dropbox scores 0-57% across Units 4, 6, 7, 8 \u2014 not encoding knowledge. Complete KO entries, targeted retrieval on weak topics.",
+    layer2: "CENTRAL CRISIS. Skill 2 at 0% + Skill 3 at 49% = cannot work with source-based questions (67% of exam). Needs HIPP framework from scratch. B2 course is non-negotiable.",
+    layer3: "DBQ bootcamp (scaffolded weeks 1-3). Thesis writing daily. Contextualization drills. MCQ timed drills 3x/week.",
+    target: "Score 3+. DBQ from 1/7 to 3/7. MCQ from 53% to 65%+.",
+    path: "B2 HIPP (FIRST) \u2192 MC1 China \u2192 MC2 Russia"
+  },
+  {
+    name: "Saeed Tarawneh", score: 2, mcq: 58, frq: 39, dbq: "2/7",
+    crisis: "Biggest course-to-exam drop in cohort (-22%). Knows content (Skill 1: 83%) but cannot apply to sources (Skill 3: 49%). Classic recognition-vs-retrieval gap.",
+    cedSkills: [
+      { skill: "Skill 1: Developments & Processes", score: "83%", status: "STRONG" },
+      { skill: "Skill 2: Sourcing & Situation", score: "50%", status: "WEAK" },
+      { skill: "Skill 3: Claims & Evidence", score: "49%", status: "WEAK" },
+      { skill: "Skill 4: Contextualization", score: "100%", status: "STRONG" },
+      { skill: "Skill 5: Making Connections", score: "71%", status: "STRONG" }
+    ],
+    drop: "-22% course-to-exam (77% TB \u2192 58% practice MCQ) \u2014 BIGGEST DROP",
+    weakTopics: "Only 6 topics below 60% \u2014 content knowledge is solid. Layer 1 is NOT his primary problem.",
+    frqErrors: [
+      "DBQ (2/7): No thesis. Cited Meiji Restoration for 1917-1953 Soviet economy (wrong period). Irrelevant contextualization.",
+      "LEQ (2/6): Answered wrong option (labeled Option 2, wrote about Option 3). Conflated settler grievances with indigenous responses.",
+      "SAQ: Called religion 'tool for rebellion' (political framing). Called UN an NGO (it's an IGO). Too vague \u2014 no specific examples."
+    ],
+    layer1: "NOT primary problem. Only 4 genuinely weak topics. Complete KO Dropbox Unit 8. Move quickly to Layers 2-3.",
+    layer2: "CENTRAL PROBLEM. Conflates related concepts, misreads prompts. Needs prompt-reading protocol, precision vocabulary, period-matching drills.",
+    layer3: "DBQ structured practice (scaffolded). SAQ precision drills. Focus on World History first (May 7), pivot to Psych (May 12).",
+    target: "Score 3+. DBQ from 2/7 to 4/7. FRQ from 39% to 55%+.",
+    path: "B2 HIPP (FIRST) \u2192 MC1 China \u2192 MC2 Russia"
+  },
+  {
+    name: "Ella Dietz", score: 3, mcq: 62, frq: 63, dbq: "2/7",
+    crisis: "INVERTED profile from Emma/Saeed \u2014 CAN do source work (Skill 2: 100%) but CAN'T make cross-period connections (Skill 5: 43%). Strong SAQs (7/9) but weak DBQ (2/7). Clearest path from 3 \u2192 5.",
+    cedSkills: [
+      { skill: "Skill 1: Developments & Processes", score: "50%", status: "WEAK" },
+      { skill: "Skill 2: Sourcing & Situation", score: "100%", status: "STRONG" },
+      { skill: "Skill 3: Claims & Evidence", score: "62%", status: "STRONG" },
+      { skill: "Skill 4: Contextualization", score: "100%", status: "STRONG" },
+      { skill: "Skill 5: Making Connections", score: "43%", status: "WEAK" }
+    ],
+    drop: "-19% course-to-exam",
+    weakTopics: "Only 2 topics below 60% \u2014 remarkably few. Content knowledge is solid across all 9 units.",
+    frqErrors: [
+      "DBQ (2/7): Restated prompt instead of making a claim. No contextualization. Understood docs individually but couldn't synthesize into argument.",
+      "LEQ (3/6): Earned thesis, contextualization, evidence. Missed comparison depth and sophistication.",
+      "SAQ (7/9): Strong \u2014 best SAQ performer among underperformers."
+    ],
+    layer1: "NOT her problem. Only needs KO Dropbox Unit 3 and Unit 9 review.",
+    layer2: "Skill 5 weakness = can't synthesize across documents/periods. Needs document-to-argument practice, comparison 'overlap' approach. SKIP B2 HIPP (her Skill 2 is 100%).",
+    layer3: "Study 3 exemplar DBQs. Write 1 full DBQ per week. Push MCQ from 62% to 75%+.",
+    target: "Score 4-5. DBQ from 2/7 to 5/7. Clearest path to a 5.",
+    path: "Skip B2 \u2192 MC2 Russia (IMMEDIATE) \u2192 Skill 5 intervention"
+  },
+  {
+    name: "Jackson Price", score: 3, mcq: 78, frq: 56, dbq: "2/7",
+    crisis: "Most paradoxical student. 78% practice MCQ (highest among underperformers) but 15% Timeback FRQ (lowest). ONLY student who improved from course to exam (+15%). CED data suggests Timeback underestimates his ability.",
+    cedSkills: [
+      { skill: "Skill 1: Developments & Processes", score: "67%", status: "STRONG" },
+      { skill: "Skill 2: Sourcing & Situation", score: "50%", status: "WEAK" },
+      { skill: "Skill 3: Claims & Evidence", score: "78%", status: "STRONG" },
+      { skill: "Skill 4: Contextualization", score: "67%", status: "STRONG" },
+      { skill: "Skill 5: Making Connections", score: "100%", status: "STRONG" }
+    ],
+    drop: "+15% course-to-exam (IMPROVED \u2014 unique in dataset)",
+    weakTopics: "17 topics below 60% in Timeback (most in cohort), but practice MCQ 78% contradicts this. Real problem is FRQ technique, not content.",
+    frqErrors: [
+      "DBQ (2/7): Earned thesis but no contextualization (despite earning it on LEQ). Weak document usage. No HIPP sourcing.",
+      "LEQ (3/6): Earned thesis, contextualization, evidence. Missed comparison depth.",
+      "SAQ: Called UN an NGO. Claimed TNCs have 'little to no impact' on conflict (wrong). '93 Theses' instead of '95'."
+    ],
+    layer1: "May be less critical than Timeback suggests. Complete KO Dropboxes for Units 4-9. Targeted retrieval on 17 weak topics.",
+    layer2: "Analytical skills mostly STRONG (Skill 5: 100%, Skill 3: 78%). Needs terminology precision (NGO/IGO) and factual accuracy.",
+    layer3: "PRIMARY barrier. DBQ body paragraph practice (thesis is fine). Transfer contextualization skill from LEQ to DBQ. Timed full DBQ 1/week.",
+    target: "Score 4-5. DBQ from 2/7 to 5/7.",
+    path: "Full 71-topic review (PRIMARY) \u2192 B2 HIPP \u2192 MC1+MC2"
+  }
+];
+
+document.getElementById('student-plans-container').innerHTML = STUDENT_PLANS.map(s => {
+  const scoreClass = s.score >= 4 ? 'badge-green' : s.score === 3 ? 'badge-yellow' : 'badge-red';
+  return `
+  <div class="card" style="margin-bottom:20px;border-left:3px solid var(--red)">
+    <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:12px">
+      <h3 style="font-size:20px;font-weight:800">${s.name}</h3>
+      <span class="badge ${scoreClass}">AP Score: ${s.score}</span>
+      <span class="badge badge-blue">MCQ: ${s.mcq}%</span>
+      <span class="badge badge-purple">FRQ: ${s.frq}%</span>
+      <span class="badge badge-red">DBQ: ${s.dbq}</span>
+    </div>
+
+    <div style="background:rgba(239,68,68,.08);border-left:3px solid var(--red);padding:12px 16px;border-radius:0 8px 8px 0;margin-bottom:16px">
+      <div style="font-size:12px;font-weight:700;color:var(--red);text-transform:uppercase;margin-bottom:4px">Central Problem</div>
+      <div style="font-size:14px">${s.crisis}</div>
+    </div>
+
+    <div style="font-size:12px;font-weight:700;color:var(--accent);text-transform:uppercase;margin-bottom:8px">CED Skills</div>
+    <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-bottom:16px">
+      ${s.cedSkills.map(sk => {
+        const bg = sk.status === 'CRITICAL' ? 'rgba(239,68,68,.15)' : sk.status === 'WEAK' ? 'rgba(245,158,11,.1)' : 'rgba(34,197,94,.08)';
+        const col = sk.status === 'CRITICAL' ? '#f87171' : sk.status === 'WEAK' ? '#fbbf24' : '#4ade80';
+        return '<div style="background:' + bg + ';padding:8px;border-radius:6px;text-align:center;font-size:12px"><div style="font-weight:700;color:' + col + '">' + sk.score + '</div><div style="color:var(--text3);font-size:11px;margin-top:2px">' + sk.skill.split(':')[0] + '</div></div>';
+      }).join('')}
+    </div>
+
+    <div style="font-size:13px;color:var(--text2);margin-bottom:12px"><strong>Course-to-Exam:</strong> ${s.drop}</div>
+    <div style="font-size:13px;color:var(--text2);margin-bottom:12px"><strong>Weak Topics:</strong> ${s.weakTopics}</div>
+
+    <div style="font-size:12px;font-weight:700;color:var(--red);text-transform:uppercase;margin:16px 0 8px">FRQ Error Patterns</div>
+    ${s.frqErrors.map(e => '<div style="font-size:13px;color:var(--text2);padding:6px 0;border-bottom:1px solid rgba(51,65,85,.2)">\u2022 ' + e + '</div>').join('')}
+
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:16px">
+      <div class="card-sm"><div style="font-size:11px;font-weight:700;color:var(--green);text-transform:uppercase;margin-bottom:6px">Layer 1: Content</div><div style="font-size:13px;color:var(--text2)">${s.layer1}</div></div>
+      <div class="card-sm"><div style="font-size:11px;font-weight:700;color:var(--accent);text-transform:uppercase;margin-bottom:6px">Layer 2: Skills</div><div style="font-size:13px;color:var(--text2)">${s.layer2}</div></div>
+      <div class="card-sm"><div style="font-size:11px;font-weight:700;color:var(--purple);text-transform:uppercase;margin-bottom:6px">Layer 3: Technique</div><div style="font-size:13px;color:var(--text2)">${s.layer3}</div></div>
+    </div>
+
+    <div style="margin-top:16px;padding:12px 16px;background:rgba(59,130,246,.08);border-left:3px solid var(--accent);border-radius:0 8px 8px 0">
+      <div style="font-size:12px;font-weight:700;color:var(--accent);text-transform:uppercase;margin-bottom:4px">Target & Path</div>
+      <div style="font-size:14px"><strong>${s.target}</strong></div>
+      <div style="font-size:13px;color:var(--text2);margin-top:4px">Path: ${s.path}</div>
+    </div>
+  </div>`;
+}).join('');
+
+// TRIPTI'S WORK LOG
+const WORK_LOG = [
+  { category: "S3 Review & Analysis", items: [
+    "Analyzed practice exam data for 6 tested students across AP World History",
+    "Created per-student CED skill breakdowns (5 skills \u00d7 6 students) from item-level CSV data",
+    "Wrote comprehensive S3 review document (500+ lines) with insights, student plans, and improvement actions",
+    "Cross-referenced Timeback course data, practice test scores, and FRQ grading to identify recognition-vs-retrieval gaps",
+    "Identified the DBQ crisis: 4 of 5 students scored 1-2/7 with identical failure patterns",
+    "Created 3-layer intervention framework (Core Knowledge \u2192 Disciplinary Moves \u2192 Exam Technique) per student",
+    "Analyzed 80 topic tests \u00d7 6 students from item-level CSV to find weak topic concentrations",
+    "S3 reviews completed for 5 AP subjects: Psychology, US History, US Gov, Human Geography, World History"
+  ]},
+  { category: "Jackson's 71-Topic Review Course", items: [
+    "Designed the full course structure: diagnostic \u2192 SKIP/SKIM/FULL per-unit \u2192 71 topic modules",
+    "Generated 71 articles with Claude Opus \u2014 each with learning goal, outcomes, article content, key terms, note-taking prompts",
+    "QC'd all 71 articles \u2014 verified CED alignment, corrected factual errors, applied fixes",
+    "Mapped 64 Heimler's History video URLs to specific CED topics",
+    "Mapped 27 FRQs across 9 units \u2014 14 SAQs, 8 LEQs, 5 Mini-DBQs \u2014 with exact CollegeBoard sources (2017-2025)",
+    "Analyzed Princeton PT1 for diagnostic coverage, created 10 supplementary questions for Units 4, 5, 9",
+    "Wrote COURSE_SPEC.md, FRQ_PLACEMENT_MAP.md, diagnostic mapping",
+    "Organized full folder structure for Akshit handoff (unit_X/topic_X.X/article.md + topic_spec.md)"
+  ]},
+  { category: "HIPP B2 Course (9 Modules)", items: [
+    "Designed 9-module scaffolded progression: intro \u2192 element-by-element \u2192 full HIPP \u2192 DBQ connection \u2192 full DBQ",
+    "Wrote item-by-item build specs for all 9 modules (autograder rubrics, model answers, feedback text, H5P specs)",
+    "Cataloged 77 released DBQ documents across 2017-2025 released exams",
+    "Wrote Module 2 prototype article ('Historical Situation') and dry-tested it (7.5/10)",
+    "Applied 3 fixes from dry test: answer key corrections, context hint additions, self-check checklists",
+    "Conducted HIPP research: Reddit/forums (655 lines), video/article inventory (13 sections), pedagogy methods (570 lines \u2014 Wineburg, SHEG, DBQ Project, cognitive science)"
+  ]},
+  { category: "MC1 China & MC2 Russia QC", items: [
+    "Ran QC on MC1 China (190 MCQ) \u2014 found only 37% were China-specific, 48% wrong-topic",
+    "Ran QC on MC2 Russia (232 MCQ) \u2014 found only 36% were Russia-specific, 52% wrong-topic",
+    "Identified all 3 FRQs in each course were wrong-topic (Mughal, Chile, generic)",
+    "Wrote detailed fix docs with item-by-item keep/delete/move decisions for both courses",
+    "Created proposed 8-topic rebuild structure for both courses with CED mapping",
+    "Decision: MC1/MC2 rebuild deprioritized \u2014 focus on Jackson's course + B2 HIPP instead"
+  ]},
+  { category: "Deliverables for Team", items: [
+    "BUILD_GUIDE_FOR_AKSHIT.md \u2014 step-by-step build guide for both courses",
+    "TIMEBACK_STYLING_GUIDE.md \u2014 full styling spec (8 block types, color palette, typography, H5P, MCQ/FRQ formatting, document cards)",
+    "apwh_mc1_fixes_for_akshit.md \u2014 MC1 China engineering fix doc",
+    "apwh_mc2_fixes_for_akshit.md \u2014 MC2 Russia engineering fix doc",
+    "apwh_mc1_mc2_student_assignment_brief.md \u2014 for Eric/Hari with student-specific guidance",
+    "GCHAT_MESSAGE_FOR_AKSHIT.md \u2014 handoff message for Akshit",
+    "Jackson Course Dashboard (this file) \u2014 comprehensive visual overview for sharing"
+  ]},
+  { category: "QC Pipeline & Automation", items: [
+    "Used 6-layer QC pipeline (structural, quality, alignment, course, FRQ, content) to audit courses",
+    "Used course puller to extract course data from Timeback API",
+    "Used 4-agent QC workflow (Fox, Hermione, Professor, Sherlock) for systematic review",
+    "Analyzed Barron's and Princeton EPUBs for question sourcing"
+  ]}
+];
+
+document.getElementById('work-log').innerHTML = WORK_LOG.map(cat => `
+  <div class="card" style="margin-bottom:16px">
+    <h3 style="font-size:16px;font-weight:700;color:var(--accent);margin-bottom:12px">${cat.category}</h3>
+    ${cat.items.map(item => '<div class="status-item"><span class="status-icon" style="color:var(--green)">\u2713</span><span style="font-size:14px">' + item + '</span></div>').join('')}
+  </div>
+`).join('');
 
 </script>
 </body>
