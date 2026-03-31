@@ -1,0 +1,3255 @@
+{
+  "course_code": "APWORLDHISTORY",
+  "course_name": "AP World History: Modern",
+  "ced_year": "2024-2025",
+  "source": "College Board Course and Exam Description (CED)",
+  "extraction_date": "2026-03-22",
+  "historical_thinking_skills": [
+    {
+      "number": 1,
+      "name": "Developments and Processes",
+      "description": "Identify and explain historical developments and processes."
+    },
+    {
+      "number": 2,
+      "name": "Sourcing and Situation",
+      "description": "Analyze sourcing and situation of primary and secondary sources."
+    },
+    {
+      "number": 3,
+      "name": "Claims and Evidence in Sources",
+      "description": "Analyze arguments in primary and secondary sources."
+    },
+    {
+      "number": 4,
+      "name": "Contextualization",
+      "description": "Analyze the contexts of historical events, developments, or processes."
+    },
+    {
+      "number": 5,
+      "name": "Making Connections",
+      "description": "Using historical reasoning processes, analyze patterns and connections."
+    },
+    {
+      "number": 6,
+      "name": "Argumentation",
+      "description": "Develop an argument."
+    }
+  ],
+  "units": [
+    {
+      "number": 1,
+      "name": "The Global Tapestry",
+      "time_period": "c. 1200-1450",
+      "weight_percent": "8-10%",
+      "topics": [
+        {
+          "code": "1.1",
+          "name": "Developments in East Asia from c. 1200 to c. 1450",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            },
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain the systems of government employed by Chinese dynasties and how they developed over time."
+            },
+            {
+              "code": "B",
+              "text": "Explain the effects of Chinese cultural traditions on East Asia over time."
+            },
+            {
+              "code": "C",
+              "text": "Explain the effects of innovation on the Chinese economy over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.2.I",
+              "text": ".A Empires and states in Afro-Eurasia and the Americas demonstrated continuity, innovation, and diversity in the 13th century. This included the Song Dynasty of China, which utilized traditional methods of Confucianism and an imperial bureaucracy to maintain and justify its rule."
+            },
+            {
+              "code": "KC-3.1.III",
+              "text": ".D.i Chinese cultural traditions continued, and they influenced neighboring regions."
+            },
+            {
+              "code": "KC-3.3.III",
+              "text": ".A.i The economy of Song China became increasingly commercialized while continuing to depend on free peasant and artisanal labor."
+            },
+            {
+              "code": "KC-3.1.I",
+              "text": ".D The economy of Song China flourished as a result of increased productive capacity, expanding trade networks, and innovations in agriculture and manufacturing."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.A",
+              "description": "Identify and describe a historical context for a specific historical development or process."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Cultural traditions",
+              "text": "Filial piety in East Asia"
+            },
+            {
+              "category": "Cultural traditions",
+              "text": "Influence of Neo-Confucianism and Buddhism in East Asia"
+            },
+            {
+              "category": "Cultural traditions",
+              "text": "Confucian traditions of both respect for and expected deference from women"
+            },
+            {
+              "category": "Cultural traditions",
+              "text": "Chinese literary and scholarly traditions and their spread to Heian Japan and Korea"
+            },
+            {
+              "category": "Branches of Buddhism",
+              "text": "Theravada"
+            },
+            {
+              "category": "Branches of Buddhism",
+              "text": "Mahayana"
+            },
+            {
+              "category": "Branches of Buddhism",
+              "text": "Tibetan"
+            },
+            {
+              "category": "Technological innovations",
+              "text": "Champa rice"
+            },
+            {
+              "category": "Technological innovations",
+              "text": "Transportation innovations, like the Grand Canal expansion"
+            },
+            {
+              "category": "Technological innovations",
+              "text": "Steel and iron production"
+            },
+            {
+              "category": "Technological innovations",
+              "text": "Textiles and porcelains for export"
+            }
+          ]
+        },
+        {
+          "code": "1.2",
+          "name": "Developments in Dar al-Islam from c. 1200 to c. 1450",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            },
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "TEC",
+              "name": "Technology and Innovation"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Explain how systems of belief andtheirpracticesaffected society in the period from c. 1200 to c. 1450."
+            },
+            {
+              "code": "E",
+              "text": "Explain the causes and effectsoftheriseofIslamic states over time."
+            },
+            {
+              "code": "F",
+              "text": "Explain the effects of intellectual innovation in Daral-Islam."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.III",
+              "text": ".D.iii Islam, Judaism, Christianity, and the core beliefs and practices of these religions continued to shape societies in Africa and Asia."
+            },
+            {
+              "code": "KC-3.2.I",
+              "text": "As the Abbasid Caliphate fragmented, new Islamic political entities emerged, most of which were dominated by Turkic peoples. These states demonstrated continuity, innovation, and diversity."
+            },
+            {
+              "code": "KC-3.2.II",
+              "text": ".A.i Muslim states and empires encouraged significant intellectual innovations and transfers. Innovations:"
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "New Islamic political entities",
+              "text": "Seljuk Empire"
+            },
+            {
+              "category": "New Islamic political entities",
+              "text": "Mamluk sultanate of Egypt"
+            },
+            {
+              "category": "New Islamic political entities",
+              "text": "Delhi sultanates"
+            }
+          ]
+        },
+        {
+          "code": "1.3",
+          "name": "Developments in South and Southeast Asia from c. 1200 to c. 1450",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            },
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "G",
+              "text": "Explain how the various belief systems and practices of South and Southeast Asia affectedsocietyovertime."
+            },
+            {
+              "code": "H",
+              "text": "Explain how and why various states of South and Southeast Asia developed and maintained power over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.III",
+              "text": ".D.iv Hinduism, Islam, and Buddhism, and their core beliefs and practices, continued to shape societies in South and Southeast Asia."
+            },
+            {
+              "code": "KC-3.2.I",
+              "text": ".B.i State formation and development demonstrated continuity, innovation, and diversity, including the new Hindu and Buddhist states that emerged in South and Southeast Asia."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "Beliefs and practices",
+              "text": "Bhakti movement"
+            },
+            {
+              "category": "Beliefs and practices",
+              "text": "Sufism"
+            },
+            {
+              "category": "Beliefs and practices",
+              "text": "Buddhist monasticism"
+            },
+            {
+              "category": "Hindu/Buddhist states",
+              "text": "Vijayanagara Empire"
+            },
+            {
+              "category": "Hindu/Buddhist states",
+              "text": "Srivijaya Empire"
+            },
+            {
+              "category": "Hindu/Buddhist states",
+              "text": "Rajput kingdoms"
+            },
+            {
+              "category": "Hindu/Buddhist states",
+              "text": "Khmer Empire"
+            },
+            {
+              "category": "Hindu/Buddhist states",
+              "text": "Majapahit"
+            },
+            {
+              "category": "Hindu/Buddhist states",
+              "text": "Sukhothai kingdom"
+            },
+            {
+              "category": "Hindu/Buddhist states",
+              "text": "Sinhala dynasties"
+            }
+          ]
+        },
+        {
+          "code": "1.4",
+          "name": "State Building in the Americas",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "I",
+              "text": "Explain how and why states in the Americas developed and changed over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.2.I",
+              "text": ".D.i IntheAmericas,asinAfro-Eurasia,state systems demonstrated continuity, innovation, and diversity, and expanded in scope and reach."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "the Americas",
+              "text": "Mayacity-states"
+            },
+            {
+              "category": "the Americas",
+              "text": "Mexica"
+            },
+            {
+              "category": "the Americas",
+              "text": "Inca"
+            },
+            {
+              "category": "the Americas",
+              "text": "Chaco"
+            },
+            {
+              "category": "the Americas",
+              "text": "Mesa Verde"
+            },
+            {
+              "category": "the Americas",
+              "text": "Cahokia"
+            }
+          ]
+        },
+        {
+          "code": "1.5",
+          "name": "State Building in Africa",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "J",
+              "text": "Explain how and why states in Africa developed and changed over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.2.I",
+              "text": ".D.ii In Africa, as in Eurasia and the Americas, state systems demonstrated continuity, innovation, and diversity and expanded in scope and reach."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "State systems in Africa",
+              "text": "Great Zimbabwe"
+            },
+            {
+              "category": "State systems in Africa",
+              "text": "Ethiopia"
+            },
+            {
+              "category": "State systems in Africa",
+              "text": "Hausa kingdoms"
+            }
+          ]
+        },
+        {
+          "code": "1.6",
+          "name": "Developments in Europe from c. 1200 to c. 1450",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            },
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "K",
+              "text": "Explain how the beliefs and practices of the predominant religionsinEuropeaffected European society."
+            },
+            {
+              "code": "L",
+              "text": "Explain the causes and consequences of political decentralization in Europe from c. 1200 to c. 1450."
+            },
+            {
+              "code": "M",
+              "text": "Explain the effects of agriculture on social organizationinEuropefrom c. 1200 to c. 1450."
+            },
+            {
+              "code": "N",
+              "text": "Explain the similarities and differencesintheprocesses of state formation from c. 1200 to c. 1450."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.III",
+              "text": ".D.v Christianity, Judaism, Islam, and the core beliefs and practices of these religions continued to shape societies in Europe."
+            },
+            {
+              "code": "KC-3.2.I",
+              "text": ".B.ii Europe was politically fragmented and characterizedbydecentralizedmonarchies, feudalism, and the manorial system."
+            },
+            {
+              "code": "KC-3.3.III",
+              "text": ".C Europe was largely an agricultural society dependent on free and coerced labor, including serfdom.TOPIC 1.7 Comparison in the Period from c. 1200 to c. 1450"
+            },
+            {
+              "code": "KC-3.2",
+              "text": "State formation and development demonstrated continuity, innovation, and diversity in various regions."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.A",
+              "description": "Make a historically defensible claim.LEARNING OBJECTIVE"
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "1.7",
+          "name": "Comparison in the Period from c. 1200 to c. 1450",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "N",
+              "text": "Explain the similarities and differences in the processes of state formation from c. 1200 to c. 1450."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.2",
+              "text": "State formation and development demonstrated continuity, innovation, and diversity in various regions."
+            },
+            {
+              "code": "KC-3.2.I",
+              "text": "As the Abbasid Caliphate fragmented, new Islamic political entities emerged, most of which were dominated by Turkic peoples. These states demonstrated continuity, innovation, and diversity."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.A",
+              "description": "Make a historically defensible claim. The final topic in this unit focuses on the skill of argumentation and so provides an opportunity for your students to draw upon the key concepts and historical developments they have studied in this unit. Using evidence relevant to this unit’s key concepts, students should practice the suggested skill for this topic."
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Networks of Exchange",
+      "time_period": "c. 1200-1450",
+      "weight_percent": "8-10%",
+      "topics": [
+        {
+          "code": "2.1",
+          "name": "The Silk Roads",
+          "thematic_focuses": [
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain the causes and effectsofgrowthofnetworks of exchange after 1200."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.I",
+              "text": ".A.i Improved commercial practices led to an increased volume of trade and expanded the geographicalrangeofexistingtraderoutes— includingtheSilkRoads—promotingthe growth of powerful new trading cities."
+            },
+            {
+              "code": "KC-3.3.I",
+              "text": ".B DemandforluxurygoodsincreasedinAfro- Eurasia. Chinese, Persian, and Indian artisans and merchants expanded their production of textiles and porcelains for export; manufacture of iron and steel expanded in China."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.A",
+              "description": "Identify and describe a historical context for a specific historical development or process."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Trading cities",
+              "text": "Kashgar"
+            },
+            {
+              "category": "Trading cities",
+              "text": "Samarkand New forms of credit and"
+            },
+            {
+              "category": "money economies",
+              "text": "Bills of exchange"
+            },
+            {
+              "category": "money economies",
+              "text": "Banking houses"
+            },
+            {
+              "category": "money economies",
+              "text": "Use of paper money"
+            }
+          ]
+        },
+        {
+          "code": "2.2",
+          "name": "The Mongol Empire and the Making of the Modern World",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            },
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "B",
+              "text": "Explain the process of state building and decline in Eurasia over time."
+            },
+            {
+              "code": "C",
+              "text": "Explain how the expansion of empiresinfluencedtradeand communication over time."
+            },
+            {
+              "code": "D",
+              "text": "Explainthesignificance of the Mongol Empire in larger patterns of continuity and change."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.2.I",
+              "text": ".B.iii Empirescollapsedindifferentregionsofthe world and in some areas were replaced by new imperial states, including the Mongol khanates."
+            },
+            {
+              "code": "KC-3.1.I",
+              "text": ".E.i Theexpansionofempires—includingthe Mongols—facilitatedAfro-Eurasiantrade and communication as new people were drawn into their conquerors’ economies and trade networks."
+            },
+            {
+              "code": "KC-3.2.II",
+              "text": ".A.ii Interregional contacts and conflicts between states and empires, including the Mongols, encouragedsignificanttechnologicaland cultural transfers."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.A",
+              "description": "Identify patterns among or connections between historical developments and processes."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "cultural transfers",
+              "text": "Transfer of Greco– Islamic medical knowledge to western Europe"
+            },
+            {
+              "category": "cultural transfers",
+              "text": "Transfer of numbering systems to Europe"
+            },
+            {
+              "category": "cultural transfers",
+              "text": "Adoption of Uyghur script"
+            }
+          ]
+        },
+        {
+          "code": "2.3",
+          "name": "Exchange in the Indian Ocean",
+          "thematic_focuses": [
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            },
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            },
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "E",
+              "text": "Explain the causes of the growth of networks of exchange after 1200."
+            },
+            {
+              "code": "F",
+              "text": "Explain the effects ofthe growth of networks of exchange after 1200."
+            },
+            {
+              "code": "G",
+              "text": "Explain the role of environmental factors in the development of networks of exchange in the period from c. 1200 to c. 1450."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.I",
+              "text": ".A.ii Improved transportation technologies and commercial practices led to an increased volume of trade and expanded the geographical range of existing trade routes, including the Indian Ocean, promoting the growth of powerful new trading cities."
+            },
+            {
+              "code": "KC-3.1.III",
+              "text": ".B In key places along important trade routes, merchants set up diasporic communities where they introduced their own cultural traditions into the indigenous cultures and, in turn, indigenous cultures influenced merchant cultures."
+            },
+            {
+              "code": "KC-3.2.II",
+              "text": ".A.iii Interregional contacts and conflicts between states and empires encouraged significant technological and cultural transfers, including during Chinese maritime activity led by Ming Admiral Zheng He."
+            },
+            {
+              "code": "KC-3.1.II",
+              "text": ".A.i The expansion and intensification of long- distance trade routes often depended on environmental knowledge, including advanced knowledge of the monsoon winds. Diasporic communities:"
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.A",
+              "description": "Identify patterns among or connections between historical developments and processes."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Growth of states",
+              "text": "City-states of the Swahili Coast"
+            },
+            {
+              "category": "Growth of states",
+              "text": "Gujarat"
+            },
+            {
+              "category": "Growth of states",
+              "text": "Sultanate of Malacca"
+            }
+          ]
+        },
+        {
+          "code": "2.4",
+          "name": "Trans-Saharan Trade Routes",
+          "thematic_focuses": [
+            {
+              "code": "TEC",
+              "name": "Technology and Innovation"
+            },
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "H",
+              "text": "Explain the causes and effectsofthegrowthof trans-Saharantrade."
+            },
+            {
+              "code": "I",
+              "text": "Explain how the expansion of empiresinfluencedtradeand communication over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.II",
+              "text": ".A.ii The growth of interregional trade was encouraged by innovations in existing transportation technologies."
+            },
+            {
+              "code": "KC-3.1.I",
+              "text": ".A.iv Improved transportation technologies and commercial practices led to an increased volume of trade and expanded the geographical range of existing trade routes, includingthetrans-Saharantradenetwork."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "interregional trade",
+              "text": "Camel saddle"
+            },
+            {
+              "category": "interregional trade",
+              "text": "CaravansTHEMATIC FOCUS Governance GOV A variety of internal and external factors contribute to state formation, expansion, and decline. Governments maintain order through a variety of administrative institutions, policies, and procedures, and governments obtain, retain, and exercise power in different ways and for different purposes."
+            }
+          ]
+        },
+        {
+          "code": "2.5",
+          "name": "Cultural Consequences of Connectivity",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "J",
+              "text": "Explain the intellectual and culturaleffectsofthevarious networks of exchange in Afro-Eurasiafromc.1200to c. 1450."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.III",
+              "text": ".D Increasedcross-culturalinteractionsresulted inthediffusionofliterary,artistic,and culturaltraditions,aswellasscientificand technological innovations."
+            },
+            {
+              "code": "KC-3.3.II",
+              "text": "The fate of cities varied greatly, with periods ofsignificantdeclineandperiodsofincreased urbanization,buoyedbyrisingproductivityand expanding trade networks."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "traditions",
+              "text": "Theinfluenceof Buddhism in East Asia"
+            },
+            {
+              "category": "traditions",
+              "text": "The spread of Hinduism and Buddhism into Southeast Asia"
+            },
+            {
+              "category": "traditions",
+              "text": "The spread of Islam insub-SaharanAfrica and Asia Diffusion of scientific or"
+            },
+            {
+              "category": "technological innovations",
+              "text": "Gunpowder from China"
+            },
+            {
+              "category": "technological innovations",
+              "text": "Paper from China"
+            },
+            {
+              "category": "Travelers",
+              "text": "Ibn Battuta"
+            },
+            {
+              "category": "Travelers",
+              "text": "Margery Kempe"
+            },
+            {
+              "category": "Travelers",
+              "text": "Marco Polo"
+            }
+          ]
+        },
+        {
+          "code": "2.6",
+          "name": "Environmental Consequences of Connectivity",
+          "thematic_focuses": [
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "K",
+              "text": "Explain the environmental effectsofthevarious networks of exchange in Afro-Eurasiafromc.1200to c. 1450."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1.IV",
+              "text": "Therewascontinueddiffusionofcropsand pathogens, with epidemic diseases, including the bubonic plague, along trade routes."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.A",
+              "description": "Identify patterns among or connections between historical developments and processes."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Diffusion of crops",
+              "text": "Bananas in Africa"
+            },
+            {
+              "category": "Diffusion of crops",
+              "text": "New rice varieties in East Asia"
+            },
+            {
+              "category": "Diffusion of crops",
+              "text": "Spread of citrus in the Mediterranean"
+            }
+          ]
+        },
+        {
+          "code": "2.7",
+          "name": "Comparison of Economic Exchange",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "L",
+              "text": "Explain the similarities anddifferencesamong the various networks of exchange in the period from c. 1200 to c. 1450."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-3.1",
+              "text": "A deepening and widening of networks of human interaction within and across regions contributed tocultural,technological,andbiologicaldiffusion within and between various societies."
+            },
+            {
+              "code": "KC-3.1.I",
+              "text": ".A.i Improved commercial practices led to an increased volume of trade and expanded the geographical range of existing trade routes—includingtheSilkRoads—promoting the growth of powerful new trading cities."
+            },
+            {
+              "code": "KC-3.3",
+              "text": "Changes in trade networks resulted from and stimulated increasing productive capacity, with important implications for social and gender structures and environmental processes."
+            },
+            {
+              "code": "KC-3.3.I",
+              "text": ".B Demand for luxury goods increased in Afro-Eurasia.Chinese,Persian,andIndian artisans and merchants expanded their production of textiles and porcelains for export; manufacture of iron and steel expanded in China."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.B",
+              "description": "Support an argument using specific and relevant evidence."
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Land-Based Empires",
+      "time_period": "c. 1450-1750",
+      "weight_percent": "12-15%",
+      "topics": [
+        {
+          "code": "3.1",
+          "name": "Empires Expand",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain how and why variousland-basedempires developed and expanded from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.3.II",
+              "text": "Imperial expansion relied on the increased use of gunpowder, cannons, and armed trade to establish large empires in both hemispheres."
+            },
+            {
+              "code": "KC-4.3.III.i",
+              "text": "Political and religious disputes led to rivalries andconflictbetweenstates."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "State rivalries",
+              "text": "Safavid–Mughalconflict"
+            },
+            {
+              "category": "State rivalries",
+              "text": "Songhai Empire’s conflictwithMorocco"
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "name": "Empires: Administration",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "B",
+              "text": "Explain how rulers used a variety of methods to legitimizeandconsolidate theirpowerinland-based empires from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.3.I",
+              "text": ".C Recruitment and use of bureaucratic elites, as well as the development of military professionals, became more common among rulerswhowantedtomaintaincentralized control over their populations and resources."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.A",
+              "description": "Identify and describe a historical context for a specific historical development or process."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "military professionals",
+              "text": "Ottoman devshirme"
+            },
+            {
+              "category": "military professionals",
+              "text": "Salaried samurai"
+            },
+            {
+              "category": "Religious ideas",
+              "text": "Mexica practice of humansacrifice"
+            },
+            {
+              "category": "Religious ideas",
+              "text": "European notions of divine right"
+            },
+            {
+              "category": "Religious ideas",
+              "text": "Songhai promotion of Islam Art and monumental"
+            },
+            {
+              "category": "architecture",
+              "text": "Qing imperial portraits"
+            },
+            {
+              "category": "architecture",
+              "text": "Incan sun temple ofCuzco"
+            },
+            {
+              "category": "architecture",
+              "text": "Mughal mausolea and mosques"
+            },
+            {
+              "category": "architecture",
+              "text": "European palaces, such as Versailles"
+            },
+            {
+              "category": "Tax-collectionsystems",
+              "text": "Mughalzamindar tax collection"
+            },
+            {
+              "category": "Tax-collectionsystems",
+              "text": "Ottoman tax farming"
+            },
+            {
+              "category": "Tax-collectionsystems",
+              "text": "Mexica tribute lists"
+            },
+            {
+              "category": "Tax-collectionsystems",
+              "text": "Ming practice of collecting taxes in hard currency"
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "name": "Empires: Belief Systems",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "C",
+              "text": "Explain continuity and change within the various belief systems during the period from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.1.VI.i",
+              "text": "The Protestant Reformation marked a break with existing Christian traditions and both the Protestant and Catholic reformations contributed to the growth of Christianity."
+            },
+            {
+              "code": "KC-4.1.VI.ii",
+              "text": "Political rivalries between the Ottoman and Safavidempiresintensifiedthesplitwithin Islam between Sunni and Shi’a."
+            },
+            {
+              "code": "KC-4.1.VI.iii",
+              "text": "Sikhism developed in South Asia in a context of interactions between Hinduism and Islam."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "3.4",
+          "name": "Comparison in Land-Based Empires",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Compare the methods by which various empires increasedtheirinfluence from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.1",
+              "text": "The interconnection of the Eastern and Western Hemispheres made possible by transoceanic voyaging, transformed trade and hadasignificantsocialimpactontheworld."
+            },
+            {
+              "code": "KC-4.1.VI",
+              "text": "In some cases, the increase and intensification of interactions between newly connected hemispheres expanded the reach and furthered development of existing religions, and contributed to religiousconflictsandthedevelopmentof syncretic belief systems and practices."
+            },
+            {
+              "code": "KC-4.3",
+              "text": "Empiresachievedincreasedscopeandinfluence around the world, shaping and being shaped by the diverse populations they incorporated."
+            },
+            {
+              "code": "KC-4.3.II",
+              "text": "Imperial expansion relied on the increased use of gunpowder, cannons, and armed trade to establish large empires in both hemispheres."
+            },
+            {
+              "code": "KC-4.3.III.i",
+              "text": "Political and religious disputes led to rivalriesandconflictbetweenstates."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.B",
+              "description": "Support an argument using specific and relevant evidence."
+            },
+            {
+              "name": "Making Connections",
+              "description": "Ask students to brainstorm a list of everything they remember about technological developments in Asia from previous units and what they recently learned about European exploration. Assign students a partner. With their partner, have them create a concept web that maps the causal connections between the two developments. 4.6 Close Reading Ask students to read an excerpt from the “Declaration of Pedro Naranjo” (1681) about thePuebloRevolt.As theyread,havethemusedifferentcolorstohighlightthesocial, economic, and political reasons for rebellion. Next, have students reread their highlighted text and respond to the following prompt with a historically defensible claim: Explain the most significant causes of the Pueblo Revolt. 4.7 Debate Assign the introduction of “Toleration in the World History of Religions” by Alan Kramer (available on World History Connected). Ask students to use their textbook to compile evidence from the period 1250–1750 that supports and refutes Kramer’s claim about toleration. Have students engage in a debate about the scope of religious tolerance in the period. As students debate, remind them to always support their position with historical evidence. 4.8 Self/Peer Revision Have students pair up and ask them to discuss the following prompt and decide which historical reasoningprocessisbestfororganizingaresponse:Develop an argument that explains how economic developments led to changes in social structures in the period 1450–1750. Ask the studentstodecidewhichhistoricalreasoningprocessisbestfororganizingaresponse. Then, ask each student to write a thesis that uses this reasoning process. Have students exchange papers with their partner and discuss the strengths and areas for improvement in each thesis. Have students continue this process of peer revision for each paragraph of the essay. Unit Planning Notes Use the space below to plan your approach to the unit. Consider how you want to pace your course and methods of instruction and assessment."
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Transoceanic Interconnections",
+      "time_period": "c. 1450-1750",
+      "weight_percent": "12-15%",
+      "topics": [
+        {
+          "code": "4.1",
+          "name": "Technological Innovations from 1450 to 1750",
+          "thematic_focuses": [
+            {
+              "code": "TEC",
+              "name": "Technology and Innovation"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explainhowcross-cultural interactions resulted in the diffusionoftechnology and facilitated changes in patterns of trade and travel from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.1.II",
+              "text": "Knowledge,scientificlearning,andtechnology from the Classical, Islamic, and Asian worlds spread, facilitating European technological developments and innovation."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.A",
+              "description": "Identify and describe a historical context for a specific historical development or process."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Innovations in ship design",
+              "text": "Caravel"
+            },
+            {
+              "category": "Innovations in ship design",
+              "text": "Carrack"
+            },
+            {
+              "category": "Innovations in ship design",
+              "text": "Fluyt European technological developments influenced bycross-cultural interactions with the Classical, Islamic, and"
+            },
+            {
+              "category": "Asian worlds",
+              "text": "Lateen sail"
+            },
+            {
+              "category": "Asian worlds",
+              "text": "Compass"
+            },
+            {
+              "category": "Asian worlds",
+              "text": "Astronomical charts"
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "name": "Exploration: Causes and Events from 1450 to 1750",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "B",
+              "text": "Describe the role of states in the expansion of maritime exploration from 1450 to 1750."
+            },
+            {
+              "code": "C",
+              "text": "Explain the economic causes andeffectsofmaritime exploration by the various European states."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.1.III",
+              "text": "Newstate-supportedtransoceanicmaritime exploration occurred in this period."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process.LEARNING OBJECTIVE"
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "4.3",
+          "name": "Columbian Exchange",
+          "thematic_focuses": [
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Explain the causes of the Columbian Exchange and its effectsontheEasternand Western Hemispheres."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.1.V",
+              "text": "The new connections between the Eastern and Western Hemispheres resulted in the exchange of new plants, animals, and diseases, known as the Columbian Exchange."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "Domesticated animals",
+              "text": "Horses"
+            },
+            {
+              "category": "Domesticated animals",
+              "text": "Pigs"
+            },
+            {
+              "category": "Domesticated animals",
+              "text": "Cattle Foods brought by"
+            },
+            {
+              "category": "African enslaved persons",
+              "text": "Okra"
+            },
+            {
+              "category": "African enslaved persons",
+              "text": "Rice"
+            }
+          ]
+        },
+        {
+          "code": "4.4",
+          "name": "Maritime Empires Established",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            },
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "E",
+              "text": "Explain the process of state building and expansion among various empires and states in the period from 1450 to 1750."
+            },
+            {
+              "code": "F",
+              "text": "Explain the continuities and changes in economic systems and labor systems from 1450 to 1750."
+            },
+            {
+              "code": "G",
+              "text": "Explain changes and continuities in systems of slavery in the period from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.3.II",
+              "text": ".A.i Europeans established new trading posts in AfricaandAsia,whichprovedprofitableforthe rulers and merchants involved in new global trade networks. Some Asian states sought to limit the disruptive economic and cultural effectsofEuropean-dominatedlong-distance trade by adopting restrictive or isolationist trade policies."
+            },
+            {
+              "code": "KC-4.2.II",
+              "text": ".D Newly developed colonial economies in the Americas largely depended on agriculture, utilizedexistinglaborsystems,includingthe Incan mit’a, and introduced new labor systems including chattel slavery, indentured servitude, and encomienda and hacienda systems."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "trade policies",
+              "text": "Ming China"
+            },
+            {
+              "category": "trade policies",
+              "text": "Tokugawa JapanTHEMATIC FOCUS Economics Systems ECN Associetiesdevelop,theyaffectandareaffectedbythewaysthattheyproduce, exchange, and consume goods and services."
+            },
+            {
+              "category": "merchants",
+              "text": "Swahili Arabs"
+            },
+            {
+              "category": "merchants",
+              "text": "Omanis"
+            },
+            {
+              "category": "merchants",
+              "text": "Gujaratis"
+            },
+            {
+              "category": "merchants",
+              "text": "Javanese"
+            }
+          ]
+        },
+        {
+          "code": "4.5",
+          "name": "Maritime Empires Maintained and Developed",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            },
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            },
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "H",
+              "text": "Explain how rulers employed economic strategies to consolidate and maintain power throughout the period from 1450 to 1750."
+            },
+            {
+              "code": "I",
+              "text": "Explain the continuities and changes in networks of exchange from 1450 to 1750."
+            },
+            {
+              "code": "J",
+              "text": "Explain how political, economic, and cultural factors affected society from 1450 to 1750."
+            },
+            {
+              "code": "K",
+              "text": "Explain the similarities and differences in how various belief systems affected societies from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.1.IV",
+              "text": ".C Mercantilist policies and practices were used by European rulers to expand and control their economies and claim overseas territories. Joint-stock companies, influenced by these mercantilist principles, were used by rulers and merchants to finance exploration and were used by rulers to compete against one another in global trade."
+            },
+            {
+              "code": "KC-4.3.III.ii",
+              "text": "Economic disputes led to rivalries and conflict between states."
+            },
+            {
+              "code": "KC-4.2.II",
+              "text": ".A Peasant and artisan labor continued and intensified in many regions as the demand for food and consumer goods increased."
+            },
+            {
+              "code": "KC-4.2.III",
+              "text": ".C Some notable gender and family restructuring occurred, including demographic changes in Africa that resulted from the trade of enslaved persons."
+            },
+            {
+              "code": "KC-4.1.VI",
+              "text": "In some cases, the increase and intensification of interactions between newly connected hemispheres expanded the reach and furthered development of existing religions, and contributed to religious conflicts and the development of syncretic belief systems and practices."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "routes",
+              "text": "Muslim–European rivalry in the Indian Ocean"
+            },
+            {
+              "category": "routes",
+              "text": "Moroccan conflict with the Songhai Empire"
+            }
+          ]
+        },
+        {
+          "code": "4.6",
+          "name": "Internal and External Challenges to State Power from 1450 to 1750",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "L",
+              "text": "Explain the effects ofthe development of state power from 1450 to 1750."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.3.III.iii",
+              "text": "Stateexpansionandcentralizationledto resistance from an array of social, political, and economic groups on a local level."
+            },
+            {
+              "code": "KC-5.3.III",
+              "text": ".C Enslaved persons challenged existing authorities in the Americas through organized resistance."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Local resistance",
+              "text": "Pueblo Revolts"
+            },
+            {
+              "category": "Local resistance",
+              "text": "Fronde"
+            },
+            {
+              "category": "Local resistance",
+              "text": "Cossack revolts"
+            },
+            {
+              "category": "Local resistance",
+              "text": "Marathaconflict with Mughals"
+            },
+            {
+              "category": "Local resistance",
+              "text": "AnaNzinga’sresistance (as ruler of Ndongo and Matamba)"
+            },
+            {
+              "category": "Local resistance",
+              "text": "Metacom’s War (King Philip’s War) Resistance of enslaved"
+            },
+            {
+              "category": "persons",
+              "text": "The establishment of Maroon societies in the CaribbeanandBrazil"
+            },
+            {
+              "category": "persons",
+              "text": "Resistance of enslaved persons in North America"
+            }
+          ]
+        },
+        {
+          "code": "4.7",
+          "name": "Changing Social Hierarchies from 1450 to 1750",
+          "thematic_focuses": [
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "M",
+              "text": "Explain how social categories, roles, and practices have been maintained or have changed over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.3.I",
+              "text": ".B Many states, such as the Mughal and Ottoman empires, adopted practices to accommodate the ethnic and religious diversity of their subjectsortoutilizetheeconomic,political, andmilitarycontributionsofdifferentethnic or religious groups. In other cases, states suppressed diversity or limited certain groups’ roles in society, politics, or the economy."
+            },
+            {
+              "code": "KC-4.2.III",
+              "text": ".A Imperial conquests and widening global economic opportunities contributed to the formation of new political and economic elites, including in China with the transition to the Qing Dynasty and in the Americas with the rise of the Casta system."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "and the economy",
+              "text": "Expulsion of Jews from Spain and Portugal; the acceptance of Jews in the Ottoman Empire"
+            },
+            {
+              "category": "and the economy",
+              "text": "Restrictive policies against Han Chinese in Qing China"
+            },
+            {
+              "category": "and the economy",
+              "text": "Varying status of differentclassesof women within the Ottoman Empire"
+            },
+            {
+              "category": "Existing elites",
+              "text": "Ottoman timars"
+            },
+            {
+              "category": "Existing elites",
+              "text": "Russian boyars"
+            },
+            {
+              "category": "Existing elites",
+              "text": "European nobility"
+            }
+          ]
+        },
+        {
+          "code": "4.8",
+          "name": "Continuity and Change from 1450 to 1750",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "N",
+              "text": "Explain how economic developments from 1450 to1750affectedsocial structures over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-4.1",
+              "text": "The interconnection of the Eastern and Western Hemispheres, made possible by transoceanic voyaging, transformed trade and hadasignificantsocialimpactontheworld."
+            },
+            {
+              "code": "KC-4.1.II",
+              "text": "Knowledge,scientificlearning,and technology from the Classical, Islamic, and Asian worlds spread, facilitating European technological developments and innovation."
+            },
+            {
+              "code": "KC-4.2",
+              "text": "Although the world’s productive systems continued to be heavily centered on agriculture, major changes occurred in agricultural labor, the systems and locations of manufacturing, gender and social structures, and environmental processes."
+            },
+            {
+              "code": "KC-4.2.II",
+              "text": "Thedemandforlaborintensifiedasaresult of the growing global demand for raw materialsandfinishedproducts.Traditional peasant agriculture increased and changed in nature, plantations expanded, and the Atlantic slave trade developed andintensified."
+            },
+            {
+              "code": "KC-4.3",
+              "text": "Empires achieved increased scope and influencearoundtheworld,shapingand being shaped by the diverse populations they incorporated."
+            },
+            {
+              "code": "KC-4.3.III.ii",
+              "text": "Economic disputes led to rivalries and conflictbetweenstates.THIS PAGE IS INTENTIONALLY LEFT BLANK."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.C",
+              "description": "Use historical reasoning to explain relationships among pieces of historical evidence.LEARNING OBJECTIVE"
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Revolutions",
+      "time_period": "c. 1750-1900",
+      "weight_percent": "12-15%",
+      "topics": [
+        {
+          "code": "5.1",
+          "name": "The Enlightenment",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            },
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain the intellectual and ideological context in which revolutions swept the Atlantic world from 1750 to 1900."
+            },
+            {
+              "code": "B",
+              "text": "Explain how the Enlightenmentaffected societies over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.3.I",
+              "text": ".A Enlightenment philosophies applied new ways of understanding and empiricist approaches to both the natural world and human relationships; they also reexamined the role that religion playedinpubliclifeandemphasizedthe importance of reason. Philosophers developed new political ideas about the individual, natural rights, and the social contract."
+            },
+            {
+              "code": "KC-5.3.II.i",
+              "text": "Nationalism also became a major force shaping the historical development of states and empires."
+            },
+            {
+              "code": "KC-5.3.IV",
+              "text": ".B Demandsforwomen’ssuffrageandan emergent feminism challenged political and gender hierarchies."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "Demands",
+              "text": "Mary Wollstonecraft’s A Vindication of the Rights of Woman"
+            },
+            {
+              "category": "Demands",
+              "text": "Olympe de Gouges’s Declaration of the Rights of Woman and of the Female Citizen"
+            },
+            {
+              "category": "Demands",
+              "text": "Seneca Falls Conference (1848) organizedbyElizabeth Cady Stanton and Lucretia Mott"
+            }
+          ]
+        },
+        {
+          "code": "5.2",
+          "name": "Nationalism and Revolutions in the Period from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "C",
+              "text": "Explain causes and effects of the various revolutions in the period from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.3.II.ii",
+              "text": "People around the world developed a new sense of commonality based on language, religion, social customs, and territory. This was sometimes harnessed by governments to foster a sense of unity."
+            },
+            {
+              "code": "KC-5.3",
+              "text": "The 18th century marked the beginning of an intense period of revolution and rebellion against existing governments, leading to the establishment of new nation-states around the world."
+            },
+            {
+              "code": "KC-5.3.IV",
+              "text": ".A.i Discontent with monarchist and imperial rule encouraged the development of systems of government and various ideologies, including democracy and 19th-century liberalism."
+            },
+            {
+              "code": "KC-5.3.III",
+              "text": ".B Colonial subjects in the Americas led a series of rebellions inspired by democratic ideals. The American Revolution, and its successful establishment of a republic, the United States of America, was a model and inspiration for a number of the revolutions that followed. The American Revolution, the Haitian Revolution, and the Latin American independence movements facilitated the emergence of independent states in the Americas."
+            },
+            {
+              "code": "KC-5.3.I",
+              "text": ".B The ideas of Enlightenment philosophers, as reflected in revolutionary documents— including the American Declaration of Independence during the American Revolution, the French “Declaration of the Rights of Man and of the Citizen”during the French Revolution, and Bolívar’s “Letter from Jamaica” on the eve of the Latin American revolutions— influenced resistance to existing political authority, often in pursuit of independence and democratic ideals."
+            },
+            {
+              "code": "KC-5.3.II.iii",
+              "text": "Newly imagined national communities often linked this new national identity with borders of the state, and in some cases, nationalists challenged boundaries or sought unification of fragmented regions."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "or liberation",
+              "text": "Propaganda Movement in the Philippines"
+            },
+            {
+              "category": "or liberation",
+              "text": "Maori nationalism and the New Zealand wars in New Zealand"
+            },
+            {
+              "category": "or liberation",
+              "text": "Puerto Rico—writings of Lola Rodríguez de Tió"
+            },
+            {
+              "category": "or liberation",
+              "text": "German and Italian unifications"
+            },
+            {
+              "category": "or liberation",
+              "text": "Balkan nationalisms"
+            },
+            {
+              "category": "or liberation",
+              "text": "Ottomanism"
+            }
+          ]
+        },
+        {
+          "code": "5.3",
+          "name": "Industrial Revolution Begins",
+          "thematic_focuses": [
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Explain how environmental factors contributed to industrialization from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.I",
+              "text": ".A A variety of factors contributed to the growth of industrial production and eventually resulted in the Industrial Revolution, including:"
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "5.4",
+          "name": "Industrialization Spreads in the Period from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "TEC",
+              "name": "Technology and Innovation"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "E",
+              "text": "Explainhowdifferentmodes and locations of production have developed and changed over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.II",
+              "text": ".B Therapiddevelopmentofsteam-powered industrial production in European countries and the U.S. contributed to the increase in these regions’ share of global manufacturing during thefirstIndustrialRevolution.WhileMiddle Eastern and Asian countries continued to produce manufactured goods, these regions’ share in global manufacturing declined."
+            },
+            {
+              "code": "KC-5.1.I",
+              "text": ".D As new methods of industrial production became more common in parts of northwestern Europe, they spread to other parts of Europe and the United States, Russia, and Japan."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.A",
+              "description": "Identify patterns among or connections between historical developments and processes."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "manufacturing",
+              "text": "Shipbuilding in India and Southeast Asia"
+            },
+            {
+              "category": "manufacturing",
+              "text": "Iron works in India"
+            },
+            {
+              "category": "manufacturing",
+              "text": "Textile production in India and Egypt"
+            }
+          ]
+        },
+        {
+          "code": "5.5",
+          "name": "Technology of the Industrial Age",
+          "thematic_focuses": [
+            {
+              "code": "TEC",
+              "name": "Technology and Innovation"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "F",
+              "text": "Explain how technology shaped economic production over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.I",
+              "text": ".B The development of machines, including steam engines and the internal combustion engine, made it possible to take advantage of both existing and vast newly discovered resources ofenergystoredinfossilfuels,specifically coal and oil. The fossil fuels revolution greatly increased the energy available to human societies."
+            },
+            {
+              "code": "KC-5.1.IV",
+              "text": "Railroads, steamships, and the telegraph made exploration, development, and communication possible in interior regions globally, which led to increased trade and migration."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "5.6",
+          "name": "Industrialization: Government's Role from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "G",
+              "text": "Explain the causes and effectsofeconomic strategiesofdifferentstates and empires."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.V",
+              "text": ".C As the influence of the Industrial Revolution grew, a small number of states and governments promoted their own state- sponsored visions of industrialization."
+            },
+            {
+              "code": "KC-5.2.II",
+              "text": ".A The expansion of U.S. and European influence in Asia led to internal reform in Japan that supported industrialization and led to the growing regional power of Japan in the Meiji Era."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.A",
+              "description": "Identify patterns among or connections between historical developments and processes."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "5.7",
+          "name": "Economic Developments and Innovations in the Industrial Age",
+          "thematic_focuses": [
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "H",
+              "text": "Explain the development of economic systems, ideologies, and institutions and how they contributed to change in the period from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.III",
+              "text": ".A Western European countries began abandoning mercantilism and adopting free trade policies, partly in response to the growing acceptance of Adam Smith’s theories of laissez-fairecapitalismandfreemarkets."
+            },
+            {
+              "code": "KC-5.1",
+              "text": "The development of industrial capitalism led to increased standards of living for some, and to continued improvement in manufacturing methods that increased the availability, affordability,andvarietyofconsumergoods."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Transnational businesses",
+              "text": "Hong Kong and Shanghai Banking Corporation (HSBC)"
+            },
+            {
+              "category": "Transnational businesses",
+              "text": "Unilever based in England and the Netherlands and operating in British West Africa and the Belgian Congo"
+            },
+            {
+              "category": "Financial instruments",
+              "text": "Stock markets"
+            },
+            {
+              "category": "Financial instruments",
+              "text": "Limited-liability corporations"
+            }
+          ]
+        },
+        {
+          "code": "5.8",
+          "name": "Reactions to the Industrial Economy from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "I",
+              "text": "Explain the causes and effectsofcallsforchanges in industrial societies from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.V",
+              "text": ".D In response to the social and economic changes brought about by industrial capitalism, somegovernments,organizations,and individuals promoted various types of political, social, educational, and urban reforms."
+            },
+            {
+              "code": "KC-5.3.IV",
+              "text": ".A.ii Discontent with established power structures encouraged the development of various ideologies, including those espoused by Karl Marx, and the ideas of socialism and communism."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "5.9",
+          "name": "Society and the Industrial Age",
+          "thematic_focuses": [
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "J",
+              "text": "Explain how industrialization caused change in existing social hierarchies and standards of living."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.VI",
+              "text": ".A New social classes, including the middle class and the industrial working class, developed."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "5.10",
+          "name": "Continuity and Change in the Industrial Age",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "K",
+              "text": "Explain the extent to which industrialization brought change from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1",
+              "text": "The development of industrial capitalism led to increased standards of living for some, and to continued improvement in manufacturing methods that increased the availability, affordability,andvarietyofconsumergoods."
+            },
+            {
+              "code": "KC-5.1.IV",
+              "text": "Railroads, steamships, and the telegraph made exploration, development, and communication possible in interior regions globally, which led to increased trade and migration."
+            },
+            {
+              "code": "KC-5.3",
+              "text": "The 18th century marked the beginning of an intense period of revolution and rebellion against existing governments, leading to the establishmentofnewnation-statesaround the world."
+            },
+            {
+              "code": "KC-5.3.I",
+              "text": ".A Enlightenment philosophies applied new ways of understanding and empiricist approaches to both the natural world and human relationships; they also reexamined the role that religion played in public life andemphasizedtheimportanceofreason. Philosophers developed new political ideas about the individual, natural rights, and the social contract."
+            },
+            {
+              "code": "KC-5.3.II.i",
+              "text": "Nationalism also became a major force shaping the historical development of states and empiresAP WORLD HISTORY UNIT 6 Consequences of Industrialization c. 1750 to c. 1900 12–15% AP EXAM WEIGHTING tilde 12 hyphen 15 CLASS PERIODS 111 111Remember to go to AP Classroom to assign students the online Personal Progress Check for this unit. Whether assigned as homework or completed in class, the Personal Progress Check provides each student with immediate feedback related to this unit’s topics and skills. Personal Progress Check 6 Multiple-choice:tilde 20questions Short-answer: 2 questions"
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.C",
+              "description": "Use historical reasoning to explain relationships among pieces of historical evidence."
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Consequences of Industrialization",
+      "time_period": "c. 1750-1900",
+      "weight_percent": "12-15%",
+      "topics": [
+        {
+          "code": "6.1",
+          "name": "Rationales for Imperialism from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain how ideologies contributed to the development of imperialism from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.2.III",
+              "text": "A range of cultural, religious, and racial ideologies were used to justify imperialism, including Social Darwinism, nationalism, the conceptofthecivilizingmission,andthedesire to religiously convert indigenous populations."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "6.2",
+          "name": "State Expansion from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "B",
+              "text": "Compare processes by which state power shifted in various parts of the world from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.2.I",
+              "text": ".A Some states with existing colonies strengthened their control over those colonies and in some cases assumed direct control over coloniespreviouslyheldbynon-stateentities."
+            },
+            {
+              "code": "KC-5.2.II",
+              "text": ".B The United States, Russia, and Japan expanded their land holdings by conquering and settling neighboring territories."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "colonial control",
+              "text": "Shift from the private ownership of the Congo by King Leopold II to the Belgium government"
+            },
+            {
+              "category": "colonial control",
+              "text": "Shift from the Dutch East India Company to Dutch government control in Indonesia and Southeast Asia European states that"
+            },
+            {
+              "category": "expanded empires in Africa",
+              "text": "Britain in West Africa"
+            },
+            {
+              "category": "expanded empires in Africa",
+              "text": "Belgium in the Congo"
+            },
+            {
+              "category": "expanded empires in Africa",
+              "text": "French in West Africa Settler colonies established"
+            },
+            {
+              "category": "in empires",
+              "text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "code": "6.3",
+          "name": "Indigenous Responses to State Expansion from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "C",
+              "text": "Explain how and why internal and external factors have influencedtheprocess of state building from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.3.III",
+              "text": ".D Increasing questions about political authority and growing nationalism contributed to anticolonial movements."
+            },
+            {
+              "code": "KC-5.2.II",
+              "text": ".C Anti-imperialresistancetookvariousforms, including direct resistance within empires and the creation of new states on the peripheries."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "Direct resistance",
+              "text": "Túpac Amaru II’s rebellion in Peru"
+            },
+            {
+              "category": "Direct resistance",
+              "text": "Samory Touré’s military battles in West Africa"
+            },
+            {
+              "category": "Direct resistance",
+              "text": "Yaa Asantewaa War in West Africa"
+            },
+            {
+              "category": "Direct resistance",
+              "text": "1857 rebellion in India"
+            },
+            {
+              "category": "New states",
+              "text": "Establishment of independent states in the Balkans"
+            },
+            {
+              "category": "New states",
+              "text": "Sokoto Caliphate in modern-dayNigeria"
+            },
+            {
+              "category": "New states",
+              "text": "Cherokee Nation"
+            },
+            {
+              "category": "New states",
+              "text": "Zulu Kingdom"
+            },
+            {
+              "category": "Rebellions",
+              "text": "Ghost Dance in the U.S."
+            },
+            {
+              "category": "Rebellions",
+              "text": "XhosaCattle-Killing Movement in Southern Africa"
+            },
+            {
+              "category": "Rebellions",
+              "text": "Mahdist wars in Sudan"
+            }
+          ]
+        },
+        {
+          "code": "6.4",
+          "name": "Global Economic Development from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Explain how various environmental factors contributed to the development of the global economy from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1.II",
+              "text": ".A The need for raw materials for factories and increased food supplies for the growing population in urban centers led to the growth of export economies around the world that specializedincommercialextractionofnatural resources and the production of food and industrialcrops.Theprofitsfromtheseraw materialswereusedtopurchasefinishedgoods."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "6.5",
+          "name": "Economic Imperialism from 1750 to 1900",
+          "thematic_focuses": [
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "E",
+              "text": "Explain how various economic factors contributed to the development of the global economy from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.2.I",
+              "text": ".E Industrializedstatesandbusinesseswithin those states practiced economic imperialism primarily in Asia and Latin America."
+            },
+            {
+              "code": "KC-5.1.II",
+              "text": ".C Tradeinsomecommoditieswasorganizedin a way that gave merchants and companies based in Europe and the U.S. a distinct economic advantage."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "6.6",
+          "name": "Causes of Migration in an Interconnected World",
+          "thematic_focuses": [
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            },
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "F",
+              "text": "Explain how various environmental factors contributed to the development of varied patterns of migration from 1750 to 1900."
+            },
+            {
+              "code": "G",
+              "text": "Explain how various economic factors contributed to the development of varied patterns of migration from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.4.I",
+              "text": "Migration in many cases was influenced by changes in demographics in both industrialized and unindustrialized societies that presented challenges to existing patterns of living."
+            },
+            {
+              "code": "KC-5.4.II",
+              "text": ".A Many individuals chose freely to relocate, often in search of work."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process. Bullet Classroom Resources > Migration"
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "6.7",
+          "name": "Effects of Migration",
+          "thematic_focuses": [
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "H",
+              "text": "Explain how and why new patterns of migration affectedsocietyfrom 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.4.III",
+              "text": ".A Migrants tended to be male, leaving women to take on new roles in the home society that had been formerly occupied by men."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "6.8",
+          "name": "Causation in the Imperial Age",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "I",
+              "text": "Explain the relative significanceoftheeffects of imperialism from 1750 to 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-5.1",
+              "text": "The development of industrial capitalism led to increased standards of living for some, and to continued improvement in manufacturing methods that increased the availability, affordability,andvarietyofconsumergoods."
+            },
+            {
+              "code": "KC-5.2",
+              "text": "Asstatesindustrialized,theyalsoexpanded existing overseas empires and established new colonies and transoceanic relationships."
+            },
+            {
+              "code": "KC-5.3",
+              "text": "The 18th century marked the beginning of an intense period of revolution and rebellion against existing governments, leading to the establishmentofnewnation-statesaround the world."
+            },
+            {
+              "code": "KC-5.4",
+              "text": "As a result of the emergence of transoceanic empires and a global capitalist economy, migration patterns changed dramatically, and thenumbersofmigrantsincreasedsignificantly."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "2.C",
+              "description": "Corroborate, qualify, or modify an argument using diverse and alternative evidence in order to develop a complex argument. This argument might: Bullet Explain nuance of an issuebyanalyzing multiple variables. Bullet Explain relevant and insightful connections within and across periods. Bullet Explain the relative historicalsignificance of a source’s credibility and limitations. Bullet Explain how or why a historical claim or argument is or is noteffective.AP WORLD HISTORY UNIT 7 Global Conflict c. 1900 to the present 8–10% AP EXAM WEIGHTING tilde 9 hyphen 12 CLASS PERIODS 125Remember to go to AP Classroom to assign students the online Personal Progress Check for this unit. Whether assigned as homework or completed in class, the Personal Progress Check provides each student with immediate feedback related to this unit’s topics and skills. Personal Progress Check 7 Multiple-choice: tilde 25questions Short-answer: 2 questions Bullet Secondary source Bullet No source Free-response: 1 question Bullet Document-basedUNIT AT A GLANCE Thematic Focus Reasoning Process Topic Suggested Skill Class Periods tilde 9 hyphen 12CLASS PERIODS GOV 7.1 Shifting Power After 1900 Continuity and Change 4.B Explainhowaspecifichistorical development or process is situated within a broader historical context. 7.2 Causes of World War I Causation 1.B Explain a historical concept, development, or process. TEC 7.3 Conducting World War I Continuity and Change 3.B Identify the evidence used in a source to support an argument. ECN 7.4 Economy in the Interwar Period Comparison GOV 7.5 Unresolved Tensions After World War I Continuity and Change 7.6 Causes of World War II Causation 7.7 Conducting World War II Comparison Explain how claims or evidence support, modify, or refute a source’s argument."
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Global Conflict",
+      "time_period": "c. 1900-present",
+      "weight_percent": "8-10%",
+      "topics": [
+        {
+          "code": "7.1",
+          "name": "Shifting Power After 1900",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain how internal and external factors contributed to change in various states after 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.I",
+              "text": "The West dominated the global political order at the beginning of the 20th century, but both land-basedandmaritimeempiresgavewayto new states by the century’s end."
+            },
+            {
+              "code": "KC-6.2.II",
+              "text": ".D States around the world challenged the existing political and social order, including the Mexican Revolution that arose as a result of political crisis."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "7.2",
+          "name": "Causes of World War I",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "B",
+              "text": "Explain the causes and consequences of World War I."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.IV",
+              "text": ".B.i The causes of World War I included imperialist expansion and competition for resources. Inaddition,territorialandregionalconflicts combinedwithaflawedalliancesystemand intense nationalism to escalate the tensions intoglobalconflict."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "7.3",
+          "name": "Conducting World War I",
+          "thematic_focuses": [
+            {
+              "code": "TEC",
+              "name": "Technology and Innovation"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "C",
+              "text": "Explain how governments used a variety of methods to conduct war."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.IV",
+              "text": ".A.i WorldWarIwasthefirsttotalwar. Governments used a variety of strategies, including political propaganda, art, media, and intensifiedformsofnationalism,tomobilize populations (both in the home countries and the colonies) for the purpose of waging war."
+            },
+            {
+              "code": "KC-6.1.III",
+              "text": ".C.i New military technology led to increased levels of wartime casualties."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "7.4",
+          "name": "The Economy in the Interwar Period",
+          "thematic_focuses": [
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Explainhowdifferent governments responded to economic crisis after 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.3.I",
+              "text": ".B Following World War I and the onset of the Great Depression, governments began to take a more active role in economic life."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "the economy",
+              "text": "The New Deal"
+            },
+            {
+              "category": "the economy",
+              "text": "The fascist corporatist economy"
+            },
+            {
+              "category": "the economy",
+              "text": "Governments with strong popular support inBrazilandMexico"
+            }
+          ]
+        },
+        {
+          "code": "7.5",
+          "name": "Unresolved Tensions After World War I",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "E",
+              "text": "Explain the continuities and changes in territorial holdings from 1900 to the present."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.I",
+              "text": ".B Between the two world wars, Western and Japanese imperial states predominantly maintained control over colonial holdings; in some cases, they gained additional territories through conquest or treaty settlement and in othercasesfacedanti-imperialresistance."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "Territorial gains",
+              "text": "Transfer of former German colonies to Great Britain and France under the system of League of Nations mandates"
+            },
+            {
+              "category": "Territorial gains",
+              "text": "Manchukuo/Greater EastAsiaCo-Prosperity Sphere"
+            },
+            {
+              "category": "Anti-imperialresistance",
+              "text": "Indian National Congress"
+            },
+            {
+              "category": "Anti-imperialresistance",
+              "text": "West African resistance (strikes/congresses) to French rule"
+            }
+          ]
+        },
+        {
+          "code": "7.6",
+          "name": "Causes of World War II",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "F",
+              "text": "Explain the causes and consequences of World War II."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.IV",
+              "text": ".B.ii The causes of World War II included the unsustainable peace settlement after World War I, the global economic crisis engendered by the Great Depression, continued imperialist aspirations, and especially the rise to power of fascist and totalitarian regimes that resulted in the aggressivemilitarismofNaziGermanyunder Adolf Hitler."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "7.7",
+          "name": "Conducting World War II",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "G",
+              "text": "Explain similarities anddifferencesinhow governments used a variety of methods to conduct war."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.IV",
+              "text": ".A.ii World War II was a total war. Governments used a variety of strategies, including political propaganda,art,media,andintensifiedforms ofnationalism,tomobilizepopulations(both in the home countries and the colonies or former colonies) for the purpose of waging war. Governments used ideologies, including fascismandcommunismtomobilizealloftheir state’s resources for war and, in the case of totalitarian states, to repress basic freedoms and dominate many aspects of daily life during thecourseofthe conflictsandbeyond."
+            },
+            {
+              "code": "KC-6.1.III",
+              "text": ".C.ii New military technology and new tactics, includingtheatomicbomb,fire-bombing, and the waging of “total war” led to increased levels of wartime casualties."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "mobilizingforwar",
+              "text": "Great Britain under Winston Churchill"
+            },
+            {
+              "category": "mobilizingforwar",
+              "text": "United States under Franklin Roosevelt Totalitarian states"
+            },
+            {
+              "category": "mobilizingforwar",
+              "text": "Germany under Adolf Hitler"
+            },
+            {
+              "category": "mobilizingforwar",
+              "text": "USSR under Joseph Stalin"
+            }
+          ]
+        },
+        {
+          "code": "7.8",
+          "name": "Mass Atrocities After 1900",
+          "thematic_focuses": [
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "H",
+              "text": "Explain the various causes and consequences of mass atrocities in the period from 1900 to the present."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.III",
+              "text": ".C The rise of extremist groups in power led to the attempteddestructionofspecificpopulations, notablytheNazikillingoftheJewsinthe Holocaust during World War II, and to other atrocities, acts of genocide, or ethnic violence."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "specific populations",
+              "text": "Armenians in the Ottoman Empire during and after World War I"
+            },
+            {
+              "category": "specific populations",
+              "text": "Cambodia during the late 1970s"
+            },
+            {
+              "category": "specific populations",
+              "text": "Tutsi in Rwanda in the 1990s"
+            },
+            {
+              "category": "specific populations",
+              "text": "Ukraine in the Soviet Union in the 1920s and 1930s"
+            }
+          ]
+        },
+        {
+          "code": "7.9",
+          "name": "Causation in Global Conflict",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "I",
+              "text": "Explain the relative significanceofthecausesof globalconflictintheperiod 1900 to the present."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.1",
+              "text": "Rapid advances in science and technology altered the understanding of the universe and the natural world and led to advances in communication, transportation, industry, agriculture, and medicine."
+            },
+            {
+              "code": "KC-6.2",
+              "text": "Peoples and states around the world challenged the existing political and social order in varying ways, leading to unprecedentedworldwideconflicts."
+            },
+            {
+              "code": "KC-6.2.I",
+              "text": "The West dominated the global political order at the beginning of the 20th century, butbothland-basedandmaritime empires gave way to new states by the century’s end."
+            },
+            {
+              "code": "KC-6.2.II",
+              "text": ".D States around the world challenged the existing political and social order, including the Mexican Revolution that arose as a result of political crisis."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.D",
+              "description": "Corroborate, qualify, or modify an argument using diverse and alternative evidence in order to develop a complex argument. This argument might:"
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Cold War and Decolonization",
+      "time_period": "c. 1900-present",
+      "weight_percent": "8-10%",
+      "topics": [
+        {
+          "code": "8.1",
+          "name": "Setting the Stage for the Cold War and Decolonization",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain the historical context of the Cold War after 1945."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.II",
+              "text": "Hopesforgreaterself-governmentwerelargely unfulfilledfollowingWorldWarI;however,in the years following World War II, increasing anti-imperialistsentimentcontributedtothe dissolution of empires and the restructuring of states."
+            },
+            {
+              "code": "KC-6.2.IV",
+              "text": ".C.i Technological and economic gains experienced during World War II by the victorious nations shifted the global balance of power."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "8.2",
+          "name": "The Cold War",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "B",
+              "text": "Explain the causes and effectsoftheideological struggle of the Cold War."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.IV",
+              "text": ".C.ii The global balance of economic and political power shifted during and after World War II and rapidly evolved into the Cold War. The democracy of the United States and the authoritarian communist Soviet Union emerged as superpowers, which led to ideological conflictandapowerstrugglebetween capitalism and communism across the globe."
+            },
+            {
+              "code": "KC-6.2.V",
+              "text": ".B Groups and individuals, including the Non-AlignedMovement,opposedand promoted alternatives to the existing economic, political, and social orders."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "8.3",
+          "name": "Effects of the Cold War",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "C",
+              "text": "Compare the ways in which the United States and the Soviet Union sought to maintaininfluenceoverthe course of the Cold War."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.IV",
+              "text": ".D The Cold War produced new military alliances, including NATO and the Warsaw Pact, and led to nuclear proliferation and proxy wars between and within postcolonial states in Latin America, Africa, and Asia."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "8.4",
+          "name": "Spread of Communism After 1900",
+          "thematic_focuses": [
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            },
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Explain the causes and consequences of China’s adoption of communism."
+            },
+            {
+              "code": "E",
+              "text": "Explain the causes andeffects of movements to redistribute economic resources."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.I.i",
+              "text": "As a result of internal tension and Japanese aggression,Chinesecommunistsseizedpower. These changes in China eventually led to communist revolution."
+            },
+            {
+              "code": "KC-6.3.I",
+              "text": ".A.ii In communist China, the government controlled the national economy through the Great Leap Forward, often implementing repressive policies, with negative repercussions for the population."
+            },
+            {
+              "code": "KC-6.2.II",
+              "text": ".D.i Movements to redistribute land and resources developed within states in Africa, Asia, and Latin America, sometimes advocating communism or socialism."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "8.5",
+          "name": "Decolonization After 1900",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "F",
+              "text": "Compare the processes by which various peoples pursued independence after 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.II",
+              "text": ".A Nationalist leaders and parties in Asia and Africa sought varying degrees of autonomy within or independence from imperial rule."
+            },
+            {
+              "code": "KC-6.2.I",
+              "text": ".C After the end of World War II, some colonies negotiated their independence, while others achieved independence through armed struggle."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "8.6",
+          "name": "Newly Independent States",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            },
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "G",
+              "text": "Explain how political changes in the period from c. 1900 to the present led to territorial, demographic, and nationalist developments."
+            },
+            {
+              "code": "H",
+              "text": "Explain the economic changes and continuities resulting from the processofdecolonization."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.III",
+              "text": ".A.i The redrawing of political boundaries after the withdrawal of former colonial authorities led to the creation of new states."
+            },
+            {
+              "code": "KC-6.3.I",
+              "text": ".C In newly independent states after World War II, governments often took on a strong role in guiding economic life to promote development."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "8.7",
+          "name": "Global Resistance to Established Order After 1900",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "I",
+              "text": "Explain various reactions to existing power structures in the period after 1900."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.V",
+              "text": "Although conflict dominated much of the 20th century, many individuals and groups— including states—opposed this trend. Some individuals and groups, however, intensified the conflicts."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": [
+            {
+              "category": "conflict:",
+              "text": "Chile under Augusto Pinochet"
+            },
+            {
+              "category": "conflict:",
+              "text": "Spain under Francisco Franco"
+            },
+            {
+              "category": "conflict:",
+              "text": "Uganda under Idi Amin"
+            },
+            {
+              "category": "conflict:",
+              "text": "The buildup of the military–industrial complex and weapons trading Movements that used violence:"
+            },
+            {
+              "category": "conflict:",
+              "text": "Shining Path"
+            },
+            {
+              "category": "conflict:",
+              "text": "Al-Qaeda"
+            }
+          ]
+        },
+        {
+          "code": "8.8",
+          "name": "End of the Cold War",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "J",
+              "text": "Explain the causes of the end of the Cold War."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2.IV",
+              "text": ".E Advances in U.S. military and technological development, the Soviet Union’s costly and ultimately failed invasion of Afghanistan, and public discontent and economic weakness in communist countries led to the end of the Cold War and the collapse of the Soviet Union."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "8.9",
+          "name": "Causation in the Age of the Cold War and Decolonization",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "K",
+              "text": "Explain the extent to which theeffectsoftheColdWar were similar in the Eastern and Western Hemispheres."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.2",
+              "text": "Peoples and states around the world challenged the existing political and social order in varying ways, leading to unprecedentedworldwideconflicts."
+            },
+            {
+              "code": "KC-6.2.II",
+              "text": "Hopesforgreaterself-government werelargelyunfulfilledfollowingthe World War I; however, in the years followingtheWorldWarII,increasinganti- imperialist sentiment contributed to the dissolution of empires and the restructuring of states."
+            },
+            {
+              "code": "KC-6.2.IV",
+              "text": ".C TheColdWarconflictextendedbeyondits basic ideological origins to have profound effectsoneconomic,political,social,and cultural aspects of global events."
+            },
+            {
+              "code": "KC-6.3",
+              "text": "The role of the state in the domestic economy varied, and new institutions of global association emerged and continued to develop throughout the century."
+            },
+            {
+              "code": "KC-6.3.I",
+              "text": "States responded in a variety of ways to the economic challenges of the 20th century."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.D",
+              "description": "Corroborate, qualify, or modify an argument using diverse and alternative evidence in order to develop a complex argument. This argument might: Bullet Explain nuance of an issuebyanalyzing multiple variables. Bullet Explain relevant and insightful connections within and across periods. Bullet Explain the relative historicalsignificance of a source’s credibility and limitations. Bullet Explain how or why a historical claim or argument is or isnoteffective.THIS PAGE IS INTENTIONALLY LEFT BLANK."
+            },
+            {
+              "name": "Making Connections",
+              "description": "Displayphotographsfromthe1918influenzapandemic.Askstudentstothinkaboutthe technological, geopolitical, and environmental continuities and changes they studied in previous units. Have students create a list of continuities and changes that help us understand the developments depicted in the photo. Next, have students work with a partner tocreateaconceptwebthatexplainstheconnectionsbetweenthe1918influenzapandemic and at least two other major changes or continuities in the early part of the 20th century. 9.4 Critique Reasoning Give students the “Pinochet’s Achievements” section of Margaret Thatcher’s speech onPinochetattheConservativePartyConference(1999).Askstudentstofact-check Thatcher by conducting research on each of the claims she makes about Pinochet in the document. Have students rate the accuracy of Thatcher’s speech and write a brief report justifying their rating. 9.9 Self/Peer Revision Organizestudentsintosmallgroups.DisplaythelearningobjectiveforTopic9.9.Ask studentstowriteaclaimsupportedbyaparagraphwithspecifichistoricalevidencethat arguesforachangebutqualifiestheargumentbyacknowledgingcontinuity.Tohelp students get started, provide a sentence frame for the topic sentence such as the following Science and technology led to profound changes like : ; however, this change did have limits, for example remained constant. Whenstudentsfinish,havethemsharetheirparagraphsanddiscussthestrengthsand areas for improvement. Unit Planning Notes Use the space below to plan your approach to the unit. Consider how you want to pace your course and methods of instruction and assessment."
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Globalization",
+      "time_period": "c. 1900-present",
+      "weight_percent": "8-10%",
+      "topics": [
+        {
+          "code": "9.1",
+          "name": "Advances in Technology and Exchange After 1900",
+          "thematic_focuses": [
+            {
+              "code": "TEC",
+              "name": "Technology and Innovation"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "A",
+              "text": "Explain how the development of new technologies changed the world from 1900 to present."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.1.I",
+              "text": ".A Newmodesofcommunication—including radio communication, cellular communication, andtheinternet—aswellastransportation, including air travel and shipping containers, reduced the problem of geographic distance."
+            },
+            {
+              "code": "KC-6.1.III",
+              "text": ".B Moreeffectiveformsofbirthcontrolgave women greater control over fertility, transformed reproductive practices, and contributed to declining rates of fertility in much of the world."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.A",
+              "description": "Identify patterns among or connections between historical developments and processes."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "9.2",
+          "name": "Technological Advances and Limitations After 1900: Disease",
+          "thematic_focuses": [
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "B",
+              "text": "Explain how environmental factorsaffectedhuman populations over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.1.III",
+              "text": "Diseases,aswellasmedicalandscientific developments,hadsignificanteffectson populations around the world."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Making Connections",
+              "sub_code": "5.B",
+              "description": "Explain how a historical development or process relates to another historical development or process. Bullet Classroom Resources > The Spanish Flu and Its Legacy"
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "9.3",
+          "name": "Technological Advances: Debates About the Environment After 1900",
+          "thematic_focuses": [
+            {
+              "code": "ENV",
+              "name": "Humans and the Environment"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "C",
+              "text": "Explain the causes and effectsofenvironmental changes in the period from 1900 to present."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.1.II",
+              "text": ".A As human activity contributed to deforestation, desertification, a decline in air quality, and increased consumption of the world’s supply of fresh water, humans competed over these and other resources more intensely than ever before."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "9.4",
+          "name": "Economics in the Global Age",
+          "thematic_focuses": [
+            {
+              "code": "ECN",
+              "name": "Economic Systems"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "D",
+              "text": "Explain the continuities and changes in the global economy from 1900 to present."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.3.I",
+              "text": ".D In a trend accelerated by the end of the Cold War,manygovernmentsencouragedfree- market economic policies and promoted economicliberalizationinthelate20thcentury."
+            },
+            {
+              "code": "KC-6.3.II",
+              "text": ".B Changing economic institutions, multinational corporations, and regional trade agreements reflectedthespreadofprinciplesandpractices associatedwithfree-marketeconomics throughout the world."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "9.5",
+          "name": "Calls for Reform and Responses After 1900",
+          "thematic_focuses": [
+            {
+              "code": "SIO",
+              "name": "Social Interactions and Organization"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "E",
+              "text": "Explain how social categories, roles, and practices have been maintained and challenged over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.3.III.i",
+              "text": "Rights-baseddiscourseschallengedold assumptions about race, class, gender, and religion."
+            },
+            {
+              "code": "KC-6.3.III.ii",
+              "text": "In much of the world, access to education as well as participation in new political and professional roles became more inclusive in terms of race, class, gender, and religion."
+            },
+            {
+              "code": "KC-6.3.II",
+              "text": ".C Movements throughout the world protested the inequality of the environmental and economic consequences of global integration."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": []
+        },
+        {
+          "code": "9.6",
+          "name": "Globalized Culture After 1900",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "F",
+              "text": "Explain how and why globalizationchangedculture over time."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.3.IV.i",
+              "text": "Political and social changes of the 20th century led to changes in the arts and in the second half of the century, popular and consumer culture became more global."
+            },
+            {
+              "code": "KC-6.3.IV.ii",
+              "text": "Arts, entertainment, and popular culture increasinglyreflectedtheinfluenceofa globalizedsociety."
+            },
+            {
+              "code": "KC-6.3.IV.iii",
+              "text": "Consumerculturebecameglobalizedand transcended national borders."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Contextualization",
+              "sub_code": "4.B",
+              "description": "Explain how a specific historical development or process is situated within a broader historical context."
+            }
+          ],
+          "illustrative_examples": [
+            {
+              "category": "Global culture:",
+              "text": "Music: Reggae"
+            },
+            {
+              "category": "Global culture:",
+              "text": "Movies: Bollywood"
+            },
+            {
+              "category": "Global culture:",
+              "text": "Social media: Facebook, Twitter"
+            },
+            {
+              "category": "Global culture:",
+              "text": "Television: BBC"
+            },
+            {
+              "category": "Global culture:",
+              "text": "Sports: World Cup soccer, the Olympics Global consumerism:"
+            },
+            {
+              "category": "Global culture:",
+              "text": "Online commerce: Alibaba, e Bay"
+            },
+            {
+              "category": "Global culture:",
+              "text": "Global brands: Toyota, Coca-Cola"
+            }
+          ]
+        },
+        {
+          "code": "9.7",
+          "name": "Resistance to Globalization After 1900",
+          "thematic_focuses": [
+            {
+              "code": "CDI",
+              "name": "Cultural Developments and Interactions"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "G",
+              "text": "Explain the various responses toincreasingglobalization from 1900 to present."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.3.IV.iv",
+              "text": "Responses to rising cultural and economic globalizationtookavarietyofforms."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "9.8",
+          "name": "Institutions Developing in a Globalized World",
+          "thematic_focuses": [
+            {
+              "code": "GOV",
+              "name": "Governance"
+            }
+          ],
+          "learning_objectives": [
+            {
+              "code": "H",
+              "text": "Explain how and why globalizationchanged international interactions among states."
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.3.II",
+              "text": ".A Newinternationalorganizations,includingthe United Nations, formed with the stated goal of maintaining world peace and facilitating international cooperation."
+            }
+          ],
+          "suggested_skills": [],
+          "illustrative_examples": []
+        },
+        {
+          "code": "9.9",
+          "name": "Continuity and Change in a Globalized World",
+          "thematic_focuses": [],
+          "learning_objectives": [
+            {
+              "code": "I",
+              "text": "Explain the extent to which science and technology brought change in the period from 1900 to the present."
+            },
+            {
+              "code": "G",
+              "text": "Short-Answer Question Skill Learning Objective 2.A, 5.B"
+            },
+            {
+              "code": "B",
+              "text": "Unit 4: Learning Objectives E, K, M Free-Response Question Question Type Skill Thematic Focus Learning Objective Document- based 1.B, 2.B, 4.A, 5.B, 6.A, 6.B, 6.C, 6.D GOV, TEC Unit 7: Learning Objectives B, C, E, F, G, Long essay 1.A, 1.B, 4.A, 5.B, 6.A, 6.B, 6.C, 6.D ECN, GOV, SIO, TEC Unit 5: Learning Objectives D, E, F, G, H, I, J, K The scoring information for the questions within this course and exam description, along with further exam resources, can be found on the AP World History Exam Page on AP Central. Exam Information V.1 | 217AP History Rubrics Introductory notes: Bullet Except where otherwise noted, each point of the rubric is earned independently. For instance, a student could earn a point for evidence beyond the documents without earning a point for thesis/claim. Bullet Accuracy: The components of this rubric each require that students demonstrate historically defensible content knowledge. Given the timed nature of the exam, a response may contain errors that do not detract from its overall quality, as long as the historical content used to advance the argument is accurate. Bullet Clarity:Examessaysshouldbeconsideredfirstdraftsandthusmaycontain grammatical errors. Those errors will not be counted against a student unless they obscure the successful demonstration of the content knowledge, skills, and reasoning processes described in the rubrics. AP History DBQ Rubric (7 points) Reporting Category Scoring Criteria Decision Rules A. THESIS/CLAIM (0–1 pt) 1 pt. Responds to the prompt with a historically defensible thesis/ claim that establishes a line of reasoning. To earn this point, the thesis must make a claim that responds to the prompt rather than restating or rephrasing the prompt. The thesis must consist of one or more sentences located in one place, either in the introduction or the conclusion. B. CONTEXTUALIZATION (0–1 pt) 1 pt. Describes a broader historical context relevant to the prompt. To earn this point, the response must describe broader historical events, developments, or processes that occur before, during, or continue after the time frame of the prompt that are relevant to the topic. This point is not awarded for merely a phrase or reference. Exam Information V.1 | 218Reporting Category Scoring Criteria Decision Rules C. EVIDENCE (0–3 pts) Evidence From the Documents 1 pt. Uses the content of at least three documents to address the topic of the prompt. OR 2 pts. Supports an argument in response to the prompt using at least four documents. To earn one point, the response must accurately describe — rather than simply quote — the content from at least three of the documents. To earn two points, the response must accurately describe — rather than simply quote — the content from at least four documents. In addition, the response must use the content of the four documents to support an argument in response to the prompt. Evidence Beyond the Documents 1 pt. Uses at least one additional pieceofspecifichistorical evidence (beyond that found in the documents) relevant to an argument in response to the prompt. To earn this point, the response must describe the evidence and must use more than a phrase or reference. This additional piece of evidence must be different from the evidence used to earn the point for contextualization. Exam Information V.1 | 219Reporting Category Scoring Criteria Decision Rules D. ANALYSIS AND REASONING (0–2 pts) 1 pt. For at least two documents, explains how or why the document’s point of view, purpose, historical situation, and/or audience is relevant to an argument. To earn this point, the response must explain how or why (rather than simply identifying) the document’s point of view, purpose, historical situation, or audience is relevant to an argument about the prompt for each of the two documents sourced. 1 pt. Demonstrates a complex understanding of the historical development that is the focus of the prompt through sophisticated argumentation and/oreffectiveuseofevidence. A response may demonstrate a complex understanding through sophisticated argumentation that is relevant to the prompt. This may be done in a variety of ways, such as: Bullet Explaining multiple themes or perspectives to explore complexity or nuance; OR Bullet Explaining multiple causes or effects, multiple similarities or differences, or multiple continuities or changes; OR Bullet Explaining both cause and effect, both similarity and difference, or both continuity and change; OR Bullet Explaining relevant and insightful connections within and across periods or geographical areas. These connections should clearly relate to an argument that responds to the prompt. A response may demonstrate a complex understanding through effective use of evidence relevant to an argument that addresses the prompt. This may be done in a variety of ways, such as: Bullet Effectively using seven documents to support an argument that responds to the prompt; OR Bullet Explaining how the point of view, purpose, historical situation, and/or audience of at least four documents supports an argument that responds to the prompt; OR Bullet Using documents and evidence beyond the documents effectively to demonstrate a sophisticated understanding of different perspectives relevant to the prompt. This complex understanding must be part of the argument and may be demonstrated in any part of the response. While it is not necessary for this complex understanding to be woven throughout the response, it must be more than merely a phrase or reference. Exam Information V.1 | 220AP History Long Essay Question Rubric AP History LEQ Rubric (6 points) Reporting Category Scoring Criteria Decision Rules A. THESIS/CLAIM (0–1 pt) 1 pt. Responds to the prompt with a historically defensible thesis/claim that establishes a line of reasoning. To earn this point, the thesis must make a claim that responds to the prompt, rather than restating or rephrasing the prompt. The thesis must consist of one or more sentences located in one place, either in the introduction or the conclusion. B. CONTEXTUALIZATION (0–1 pt) 1 pt. Describes a broader historical context relevant to the prompt. To earn this point, the response must describe broader historical events, developments, or processes that occur before, during, or continue after the time frame of the prompt that are relevant to the topic. This point is not awarded for merely a phrase or a reference. C. EVIDENCE (0–2 pts) 1 pt. Provides specific examples of at least two pieces of evidence relevant to the topic of the prompt. OR 2 pts. Supports an argument in response to the prompt using at least two pieces ofspecificand relevant evidence. To earn one point, the response must identify specific historical examples relevant to the topic of the prompt. To earn two points the response must use specific historical evidence to support an argument in response to the prompt. Exam Information V.1 | 221Reporting Category Scoring Criteria Decision Rules D. ANALYSIS AND REASONING (0–2 pts) 1 pt. Uses historical reasoning (e.g. comparison, causation, CCOT) to frame or structure an argument that addresses the prompt. OR 2 pts. Demonstrates a complex understanding of the historical development that is the focus of the prompt through sophisticated argumentation and/oreffective use of evidence. To earn the first point, the response must demonstrate the use of historical reasoning to frame or structure an argument, although the reasoning might be uneven or imbalanced, or the evidence may be overly general or lacking specificity. To earn the second point, the response may demonstrate a complex understanding through sophisticated argumentation that is relevant to the prompt. This may be done in a variety of ways, such as: Bullet Explaining multiple themes or perspectives to explore complexity or nuance; OR Bullet Explaining multiple causes or effects, multiple similarities or differences, or multiple continuities or changes; OR Bullet Explaining both cause and effect, both similarity and difference, or both continuity and change; OR Bullet Explaining relevant and insightful connections within and across periods or geographical areas. These connections should clearly relate to an argument that responds to the prompt. A response may demonstrate a complex or nuanced understanding through effective use of evidence relevant to an argument that addresses the prompt. This may be done in a variety of ways, such as: Bullet Explaining how multiple pieces of specific and relevant evidence (at least four) support a nuanced or complex argument that responds to the prompt; OR Bullet Using evidence effectively to demonstrate a sophisticated understanding of different perspectives relevant to the prompt. This complex understanding must be part of the argument and may be demonstrated in any part of the response. While it is not necessary for this complex understanding to be woven throughout the response, it must be more than merely a phrase or reference. Exam Information V.1 | 222Scoring Guidelines V.1 |AP WORLD HISTORY: MODERN Scoring Guidelines Part B: Short-Answer Question with Secondary Source 1. Use the passage below to answer all parts of the question that follows. “Having questioned Sidotti,* I understand that Christians teach that their God produced heaven and earth and make him out to be the Great Lord and Father. This God of theirs, they say, cannot be served without giving him all of one’s love and all of one’s reverence. What these Christians are in effect saying is this: I have a [real] father, but I do not love him because I reserve all my love for God; I have a [real] lord, but I don’t revere him because I reserve all my reverence for God. Now this is what we call being impious and disloyal! According to the Book of Rites, it is the emperor, the Son of Heaven, who should be worshiping God, the Lord of Heaven. It is not a duty that is given to ordinary people. And that is in order to prevent the blurring of the line between the exalted and the base. Thus, the sovereign is Heaven to the subjects just as the father is Heaven to the child.” *GiovanniBattistaSidottiwasanItalianpriestwhohadenteredJapanin1708,inviolationoftheJapanesegovernment’sprohibitiononChristian missionary activities. Arai Hakuseki, Japanese scholar and adviser to the Tokugawa shogun, report, circa 1720 (A) Describe ONE way in which Hakuseki’s argument was influenced by long-standing Asian cultural traditions. (B) Explain ONE way in which the religious encounter referred to in the passage differed from most other religious encounters in the period circa 1450–1750. (C) Explain ONE historical situation in the period 1450–1750, other than the one illustrated in the passage, in which states in Asia or Africa adopted policies to limit European political power or cultural influence. 223"
+            }
+          ],
+          "essential_knowledge": [
+            {
+              "code": "KC-6.1",
+              "text": "Rapid advances in science and technology altered the understanding of the universe and the natural world and led to advances in communication, transportation, industry, agriculture, and medicine."
+            },
+            {
+              "code": "KC-6.1.I",
+              "text": ".A Newmodesofcommunication— including radio communication, cellular communication,andtheinternet—aswell as transportation, including air travel and shipping containers, reduced the problem of geographic distance."
+            },
+            {
+              "code": "KC-6.1.III",
+              "text": ".B Moreeffectiveformsofbirthcontrol gave women greater control over fertility, transformed reproductive practices, and contributed to declining rates of fertility in much of the world."
+            },
+            {
+              "code": "KC-6.3.I",
+              "text": "States responded in a variety of ways to the economic challenges of the 20th century."
+            },
+            {
+              "code": "KC-6.3.III.i",
+              "text": "Rights-baseddiscourseschallengedold assumptions about race, class, gender, and religion."
+            },
+            {
+              "code": "KC-6.3.III.ii",
+              "text": "In much of the world, access to education as well as participation in new political and professional roles became more inclusive in terms of race, class, gender, and religion."
+            },
+            {
+              "code": "KC-6.3.IV.i",
+              "text": "Political and social changes of the 20th century led to changes in the arts and in the second half of the century, popular and consumer culture became more global."
+            },
+            {
+              "code": "KC-6.3.IV.ii",
+              "text": "Arts, entertainment, and popular culture increasinglyreflectedtheinfluen globalizedsociety. ce of a"
+            },
+            {
+              "code": "KC-6.3.IV.iii",
+              "text": "Consumerculturebecameglobalizedand transcended national borders.THIS PAGE IS INTENTIONALLY LEFT BLANK."
+            }
+          ],
+          "suggested_skills": [
+            {
+              "name": "Argumentation",
+              "sub_code": "6.D",
+              "description": "Corroborate, qualify, or modify an argument using diverse and alternative evidence in order to develop a complex argument. This argument might: Bullet Explain nuance of an issuebyanalyzing multiple variables. Bullet Explain relevant and insightful connections within and across periods. Bullet Explain the relative historicalsignificance of a source’s credibility and limitations. Bullet Explain how or why a historical claim or argument is or isnoteffective.LEARNING OBJECTIVE"
+            },
+            {
+              "name": "Contextualization",
+              "description": "Multiple-choicequestionsassessstudents’ ability to identify and describe a historical contextforaspecifichistoricaldevelopment orprocessaswellasexplainhowaspecific development or process is situated within a broader historical context. Thedocument-basedquestion and long essay question assess students’ ability to describe a broader historical context relevant to the topic of the question. One or twooftheshort-answerquestions may also assess this skill. Skill 5: Making Connections Multiple-choicequestionsassessstudents’ abilitytoanalyzepatternsandconnections between and among historical developments and processes using historical reasoning (e.g., comparison, causation, continuity and change). Thedocument-basedquestion, long essay question, and one ormoreoftheshort-answer questions all assess this skill. Skill 6:"
+            }
+          ],
+          "illustrative_examples": []
+        }
+      ]
+    }
+  ]
+}
